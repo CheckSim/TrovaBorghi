@@ -27,11 +27,6 @@ def search():
     # Filtra le città per lettere iniziali e finali
     filtered_df = df[df['Città'].str.startswith(start_letters) & df['Città'].str.endswith(end_letters)]
 
-    # Se nessuna città trovata
-    if filtered_df.empty:
-        return render_template('results.html', cities=[], map_html=None)
-
-
     # Genera la mappa con Folium
     m = folium.Map(location=[41.9028, 12.4964], zoom_start=5)  # Centro Italia
     for _, row in filtered_df.iterrows():
