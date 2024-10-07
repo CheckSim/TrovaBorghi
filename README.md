@@ -16,6 +16,10 @@ TrovaBorghi è un'applicazione web che permette di cercare città italiane in ba
 - [Bootstrap](https://getbootstrap.com/) - Framework front-end per lo stile e il layout responsive.
 - [Python](https://www.python.org/) - Linguaggio di programmazione utilizzato per il backend.
 
+## Utilizzo da browser
+
+Per usare il progetto come webapp premi qui --> [TrovaBorghi](https://trovaborghi.onrender.com)
+
 ## Installazione locale
 
 Segui questi passaggi per eseguire l'applicazione in locale:
