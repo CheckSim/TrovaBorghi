@@ -52,7 +52,7 @@ Adro,45.6224015,9.961376
 Affi,45.5540914,10.7764241
 Affile,41.884122,13.095391
 Afragola,40.926012,14.310831
-Africo,38.08346115,15.965058833524559
+Africo,38.08346115,15.96505883352456
 Agazzano,44.94437,9.51768479022337
 Agerola,40.637707,14.538839
 Aggius,40.9293453,9.0652223
@@ -118,7 +118,7 @@ Albenga,44.0492503,8.2131239
 Albera Ligure,44.702351,9.066158
 Alberobello,40.7841242,17.2377031
 Alberona,41.432728,15.123042
-Albese con Cassano,45.811634999999995,9.168562828395432
+Albese con Cassano,45.811635,9.168562828395432
 Albettone,45.3581499,11.5814745
 Albi,39.02499,16.596404
 Albiano,46.144906,11.193479
@@ -196,7 +196,7 @@ Altino,42.099337,14.331615
 Altissimo,45.614739,11.2512582
 Altivole,45.7540029,11.9553621
 Alto,44.1089458,8.003074
-Alto Reno Terme,44.123913099999996,10.937216088213724
+Alto Reno Terme,44.1239131,10.937216088213724
 Alto Sermenza,45.8726585,8.0381574
 Altofonte,38.0445669,13.2987019
 Altomonte,39.6978818,16.1271277
@@ -227,7 +227,7 @@ Ampezzo,46.4170855,12.7902735
 Anacapri,40.555713,14.2136104
 Anagni,41.74472,13.152694
 Ancarano,42.836048,13.739392
-Ancona,43.480120400000004,13.21872725373014
+Ancona,43.4801204,13.21872725373014
 Andali,39.013391,16.768407
 Andalo,46.1661363,11.003402
 Andalo Valtellino,46.1336397,9.4735483
@@ -255,7 +255,7 @@ Annone di Brianza,45.8073199,9.3325797
 Annone Veneto,45.79551,12.68422
 Anoia,38.448655,16.061079064378653
 Antegnate,45.486477,9.79146
-Anterivo,46.279746700000004,11.367961064571444
+Anterivo,46.2797467,11.367961064571444
 Antey-Saint-André,45.8065246,7.598199361696238
 Anticoli Corrado,42.009524,12.989087
 Antignano,44.8450593,8.1348403
@@ -320,11 +320,11 @@ Arena,38.5627284,16.2110319
 Arena Po,45.0966059,9.3628461
 Arenzano,44.4025183,8.6831317
 Arese,45.5499106,9.0782851
-Arezzo,43.51714415,11.763928194732205
+Arezzo,43.51714415,11.763928194732204
 Argegno,45.9432736,9.1281646
 Argelato,44.64157,11.34781
 Argenta,44.6143379,11.833842
-Argentera,44.374629049999996,6.954209480373419
+Argentera,44.37462905,6.954209480373419
 Arguello,44.58274,8.11084
 Argusto,38.680783,16.435404
 Ari,42.2908788,14.2601984
@@ -390,7 +390,7 @@ Assisi,43.0711952,12.6146669
 Asso,45.8612989,9.2694511
 Assolo,39.809947,8.918233
 Assoro,37.6279049,14.4238862
-Asti,44.826012649999996,8.202686328987273
+Asti,44.82601265,8.202686328987273
 Asuni,39.872448,8.946433
 Ateleta,41.85543,14.197516
 Atella,40.880321,15.650161
@@ -627,7 +627,7 @@ Belvedere Ostrense,43.5804949,13.1661271
 Belveglio,44.8304376,8.330191
 Belvì,39.9626011,9.1851848
 Bema,46.07876735,9.581220550398465
-Bene Lario,46.02338795,9.171111208367037
+Bene Lario,46.02338795,9.171111208367035
 Bene Vagienna,44.543336,7.828335
 Benestare,38.185372,16.137003
 Benetutti,40.456461,9.168829
@@ -642,7 +642,7 @@ Berchidda,40.784067,9.164524
 Beregazzo con Figliaro,45.7710065,8.958279263308192
 Bereguardo,45.2580109,9.0275271
 Bergamasco,44.827249,8.454743
-Bergamo,45.756655699999996,9.754219200862249
+Bergamo,45.7566557,9.754219200862249
 Bergantino,45.0601694,11.2529005
 Bergeggi,44.249735,8.443353
 Bergolo,44.54784,8.183142
@@ -749,7 +749,7 @@ Bolognola,42.9933518,13.227848
 Bolotana,40.325757,8.961127
 Bolsena,42.6441069,11.9849554
 Boltiere,45.600878,9.578453
-Bolzano,46.655945450000004,11.23021287087526
+Bolzano,46.65594545,11.23021287087526
 Bolzano Novarese,45.7627855,8.4451747
 Bolzano Vicentino,45.6007102,11.6221007
 Bomarzo,42.481928,12.248764
@@ -791,7 +791,7 @@ Borghetto Santo Spirito,44.1144461,8.235328
 Borghi,45.1521446,7.6579731
 Borgia,38.826186,16.508804
 Borgiallo,45.417055,7.668515
-Borgio Verezzi,44.164968200000004,8.306662116087459
+Borgio Verezzi,44.1649682,8.306662116087459
 Borgo a Mozzano,43.978948,10.545703
 Borgo Chiese,45.8923623,10.5619745
 Borgo d'Ale,45.349435,8.053102
@@ -821,7 +821,7 @@ Borgomale,44.620341,8.13224
 Borgomanero,45.6989107,8.4623673
 Borgomaro,43.974924,7.945147
 Borgomasino,45.363257,7.987523
-Borgomezzavalle,46.047315299999994,8.199444502603226
+Borgomezzavalle,46.0473153,8.199444502603226
 Borgone Susa,45.1230132,7.2409317
 Borgonovo Val Tidone,45.014362,9.443461
 Borgoratto Alessandrino,44.83625,8.538545
@@ -906,7 +906,7 @@ Brenzone sul Garda,45.6928612,10.7720118
 Brescello,44.9012244,10.515728
 Brescia,45.77958045,10.4258729694612
 Bresimo,46.4118147,10.9708987
-Bressana Bottarone,45.083601200000004,9.122253114538573
+Bressana Bottarone,45.0836012,9.122253114538571
 Bressanone,46.716413,11.657792
 Bressanvido,45.6459759,11.6329987
 Bresso,45.5372394,9.1889678
@@ -1168,7 +1168,7 @@ Campo Ligure,44.537644,8.698153
 Campo nell'Elba,42.7587718,10.1989696
 Campo San Martino,45.544396,11.810404
 Campo Tures,46.9192363,11.9551824
-Campobasso,41.717264799999995,14.826226697820019
+Campobasso,41.7172648,14.82622669782002
 Campobello di Licata,37.25844,13.918266
 Campobello di Mazara,37.635838,12.744338
 Campochiaro,41.447524,14.508928
@@ -1191,7 +1191,7 @@ Campoli del Monte Taburno,41.131518,14.645935
 Campolieto,41.6324794,14.7654374
 Campolongo Maggiore,45.3305355,12.0483135
 Campolongo sul Brenta,45.828396,11.7002226
-Campolongo Tapogliano,45.868490449999996,13.403754617576876
+Campolongo Tapogliano,45.86849045,13.403754617576876
 Campomaggiore,40.5778524,16.0982736
 Campomarino,41.9562688,15.034344
 Campomorone,44.507337,8.8901102
@@ -1274,7 +1274,7 @@ Capannori,43.8420391,10.5735254
 Capena,42.1401497,12.540201
 Capergnanica,45.337572,9.64336
 Capestrano,42.2675788,13.7686558
-Capiago Intimiano,45.77080195,9.130031608448059
+Capiago Intimiano,45.77080195,9.13003160844806
 Capistrano,38.692282,16.289601
 Capistrello,41.972727,13.399096
 Capitignano,42.5202031,13.300948
@@ -1391,7 +1391,7 @@ Carnago,45.7228491,8.8358485
 Carnate,45.6472814,9.3790871
 Carobbio degli Angeli,45.665182,9.829158
 Carolei,39.256292,16.220093
-Carona,46.140811049999996,10.090357807086367
+Carona,46.14081105,10.090357807086368
 Caronia,38.024707,14.4405839
 Caronno Pertusella,45.5971023,9.0509248
 Caronno Varesino,45.7386359,8.8312264
@@ -1445,7 +1445,7 @@ Casalbordino,42.1506013,14.5847977
 Casalbore,41.233923,15.006742
 Casalborgone,45.130451,7.940426
 Casalbuono,40.2157502,15.6815866
-Casalbuttano ed Uniti,45.245644999999996,9.973918756400941
+Casalbuttano ed Uniti,45.245645,9.97391875640094
 Casalciprano,41.5803583,14.5281165
 Casalduni,41.2602289,14.6960905
 Casale Corte Cerro,45.9158429,8.4136779
@@ -1748,7 +1748,7 @@ Castelpizzuto,41.521724,14.292322
 Castelplanio,43.493058,13.081867
 Castelpoto,41.1409274,14.701937
 Castelraimondo,43.208151,13.053671
-Castelrotto,46.54753885,11.608464394508735
+Castelrotto,46.54753885,11.608464394508736
 Castelsantangelo sul Nera,42.8944925,13.1539297
 Castelsaraceno,40.163708,15.991877
 Castelsardo,40.910466,8.718313
@@ -1860,7 +1860,7 @@ Cavezzo,44.8365,11.0294353
 Cavizzana,46.3675013,10.957923
 Cavour,44.7854988,7.3738413
 Cavriago,44.6941945,10.5268984
-Cavriana,45.347559149999995,10.598522486405962
+Cavriana,45.34755915,10.598522486405962
 Cavriglia,43.5218737,11.4889722
 Cazzago Brabbia,45.7976859,8.73319
 Cazzago San Martino,45.580508,10.0262148
@@ -1937,7 +1937,7 @@ Ceresara,45.2651301,10.567035
 Cereseto,45.087654,8.319935
 Ceresole Alba,44.799742,7.82243
 Ceresole Reale,45.4324775,7.232401
-Cerete,45.8543485,10.011019479322801
+Cerete,45.8543485,10.0110194793228
 Ceretto Lomellina,45.2449611,8.6724399
 Cergnago,45.1982014,8.7728428
 Ceriale,44.091629,8.223251
@@ -2012,7 +2012,7 @@ Cetona,42.964431,11.9004535
 Cetraro,39.5186619,15.9348776
 Ceva,44.3872764,8.0330475
 Cevo,46.081397,10.368562
-Challand-Saint-Anselme,45.715462200000005,7.7630439361982315
+Challand-Saint-Anselme,45.715462200000005,7.763043936198231
 Challand-Saint-Victor,45.6838515,7.735185072470113
 Chambave,45.7445264,7.549854
 Chamois,45.84104155,7.643652512030038
@@ -2053,7 +2053,7 @@ Chignolo Po,45.148166,9.481559
 Chioggia,45.218894,12.2785805
 Chiomonte,45.119542,6.985306
 Chions,45.8470473,12.7116705
-Chiopris-Viscone,45.931402649999995,13.381110207288707
+Chiopris-Viscone,45.93140265,13.381110207288708
 Chitignano,43.662352,11.881338
 Chiuduno,45.6508189,9.8480158
 Chiuppano,45.7621733,11.4650759
@@ -2163,7 +2163,7 @@ Civitella Paganico,43.0241256,11.2893105
 Civitella Roveto,41.916026,13.426898
 Civitella San Paolo,42.198525,12.576475
 Civo,46.1543311,9.5608421
-Claino con Osteno,46.00948915,9.090089734680383
+Claino con Osteno,46.00948915,9.090089734680385
 Claut,46.2666749,12.5157093
 Clauzetto,46.2299006,12.9155542
 Clavesana,44.4819388,7.9120786
@@ -2255,13 +2255,13 @@ Colverde,45.80471845,9.00152571456867
 Colzate,45.816027,9.8558653
 Comabbio,45.7719597,8.6743917
 Comacchio,44.696379,12.180427
-Comano,44.311428199999995,10.1459316051002
+Comano,44.3114282,10.1459316051002
 Comano Terme,46.0091183,10.883600546635732
 Comazzo,45.4410916,9.4639446
 Comeglians,46.5152338,12.8678035
 Comelico Superiore,46.5888511,12.5166443
 Comerio,45.8396174,8.7464409
-Comezzano-Cizzago,45.464756449999996,9.955233689867876
+Comezzano-Cizzago,45.46475645,9.955233689867876
 Comignago,45.714871,8.564029
 Comiso,36.9507336,14.6074553
 Comitini,37.407941,13.642959
@@ -2329,11 +2329,11 @@ Corio,45.3134988,7.5320874
 Corleone,37.8121051,13.3014827
 Corleto Monforte,40.437209,15.37956
 Corleto Perticara,40.383513,16.040676
-Cormano,45.54451325,9.167620729961163
+Cormano,45.54451325,9.167620729961165
 Cormons,45.957791,13.4709541
 Corna Imagna,45.830683,9.544848
 Cornalba,45.8517289,9.7432339
-Cornale e Bastida,45.045404649999995,8.912614114068756
+Cornale e Bastida,45.04540465,8.912614114068756
 Cornaredo,45.5016851,9.025746
 Cornate d'Adda,45.6466993,9.4659391
 Cornedo all'Isarco,46.4899125,11.4083882
@@ -2369,7 +2369,7 @@ Cortemilia,44.5794713,8.1933023
 Corteno Golgi,46.166198,10.243457
 Cortenova,45.9999225,9.3831654
 Cortenuova,45.538978,9.787859
-Corteolona e Genzone,45.166777249999996,9.364813404197044
+Corteolona e Genzone,45.16677725,9.364813404197044
 Cortiglione,44.8228489,8.3588889
 Cortina d'Ampezzo,46.5383332,12.1373506
 Cortina sulla strada del vino,46.2687016,11.2226851
@@ -2380,7 +2380,7 @@ Corvara in Badia,46.5495743,11.8740339
 Corvino San Quirico,45.0101856,9.162397
 Corzano,45.4438105,10.0079911
 Coseano,46.0970069,13.0193878
-Cosenza,39.596685300000004,16.333055599019605
+Cosenza,39.5966853,16.333055599019605
 Cosio d'Arroscia,44.0771225,7.8330076
 Cosio Valtellino,46.1337409,9.5291545
 Cosoleto,38.275372,15.927997
@@ -2421,12 +2421,12 @@ Craveggia,46.1396628,8.4907662
 Creazzo,45.5320528,11.4785807
 Crecchio,42.2985442,14.3268988
 Credaro,45.660582,9.93106
-Credera Rubbiano,45.296062750000004,9.650528624852729
+Credera Rubbiano,45.29606275,9.650528624852727
 Crema,45.362828,9.6874573
 Cremella,45.7416805,9.2998854
 Cremenaga,45.9889227,8.802184
 Cremeno,45.9348502,9.4737288
-Cremia,46.088892349999995,9.25941806792868
+Cremia,46.08889235,9.25941806792868
 Cremolino,44.635945,8.585249
 Cremona,45.22086405,10.037037979628856
 Cremosano,45.3949172,9.6395534
@@ -2485,7 +2485,7 @@ Curon Venosta,46.8037378,10.555045061582057
 Cursi,40.149624,18.314829
 Cursolo-Orasso,46.0978055,8.566518022633744
 Curtarolo,45.5222551,11.832017
-Curtatone,45.10955285,10.715842282322747
+Curtatone,45.10955285,10.715842282322749
 Curti,41.0740234,14.2739765
 Cusago,45.4498179,9.0363223
 Cusano Milanino,45.5519897,9.1856198
@@ -2574,212 +2574,6 @@ Dorzano,45.42606,8.098524
 Dosolo,44.953372,10.637588
 Dossena,45.880286,9.696751
 Dosso del Liro,46.163989,9.272936
-Doues,,
-Dovadola,,
-Dovera,,
-Dozza,,
-Dragoni,,
-Drapia,,
-Drena,,
-Drenchia,,
-Dresano,,
-Drizzona,,
-Dro,,
-Dronero,,
-Druento,,
-Druogno,,
-Dualchi,,
-Dubino,,
-Due Carrare,,
-Dueville,,
-Dugenta,,
-Duino Aurisina,,
-Dumenza,,
-Duno,,
-Durazzano,,
-Duronia,,
-Dusino San Michele,,
-Eboli,,
-Edolo,,
-Egna,,
-Elice,,
-Elini,,
-Ello,,
-Elmas,,
-Elva,,
-Emarèse,,
-Empoli,,
-Endine Gaiano,,
-Enego,,
-Enemonzo,,
-Enna,,
-Entracque,,
-Entratico,,
-Envie,,
-Episcopia,,
-Eraclea,,
-Erba,,
-Erbè,,
-Erbezzo,,
-Erbusco,,
-Erchie,,
-Ercolano,,
-Erice,,
-Erli,,
-Erto e Casso,,
-Erula,,
-Erve,,
-Esanatoglia,,
-Escalaplano,,
-Escolca,,
-Esine,,
-Esino Lario,,
-Esperia,,
-Esporlatu,,
-Este,,
-Esterzili,,
-Etroubles,,
-Eupilio,,
-Exilles,,
-Fabbrica Curone,,
-Fabbriche di Vergemoli,,
-Fabbrico,,
-Fabriano,,
-Fabrica di Roma,,
-Fabrizia,,
-Fabro,,
-Faedis,,
-Faedo,,
-Faedo Valtellino,,
-Faenza,,
-Faeto,,
-Fagagna,,
-Faggeto Lario,,
-Faggiano,,
-Fagnano Alto,,
-Fagnano Castello,,
-Fagnano Olona,,
-Fai della Paganella,,
-Faicchio,,
-Falcade,,
-Falciano del Massico,,
-Falconara Albanese,,
-Falconara Marittima,,
-Falcone,,
-Faleria,,
-Falerna,,
-Falerone,,
-Fallo,,
-Falmenta,,
-Faloppio,,
-Falvaterra,,
-Falzes,,
-Fanano,,
-Fanna,,
-Fano,,
-Fano Adriano,,
-Fara Filiorum Petri,,
-Fara Gera d'Adda,,
-Fara in Sabina,,
-Fara Novarese,,
-Fara Olivana con Sola,,
-Fara San Martino,,
-Fara Vicentino,,
-Fardella,,
-Farigliano,,
-Farindola,,
-Farini,,
-Farnese,,
-Farra d'Isonzo,,
-Farra di Soligo,,
-Fasano,,
-Fascia,,
-Fauglia,,
-Faule,,
-Favale di Malvaro,,
-Favara,,
-Favignana,,
-Favria,,
-Feisoglio,,
-Feletto,,
-Felino,,
-Felitto,,
-Felizzano,,
-Feltre,,
-Fenegrò,,
-Fenestrelle,,
-Fénis,,
-Ferentillo,,
-Ferentino,,
-Ferla,,
-Fermignano,,
-Fermo,,
-Ferno,,
-Feroleto Antico,,
-Feroleto della Chiesa,,
-Ferrandina,,
-Ferrara,,
-Ferrara di Monte Baldo,,
-Ferrazzano,,
-Ferrera di Varese,,
-Ferrera Erbognone,,
-Ferrere,,
-Ferriere,,
-Ferruzzano,,
-Fiamignano,,
-Fiano,,
-Fiano Romano,,
-Fiastra,,
-Fiavè,,
-Ficarazzi,,
-Ficarolo,,
-Ficarra,,
-Ficulle,,
-Fidenza,,
-Fiè allo Sciliar,,
-Fierozzo,,
-Fiesco,,
-Fiesole,,
-Fiesse,,
-Fiesso d'Artico,,
-Fiesso Umbertiano,,
-Figino Serenza,,
-Figline e Incisa Valdarno,,
-Figline Vegliaturo,,
-Filacciano,,
-Filadelfia,,
-Filago,,
-Filandari,,
-Filattiera,,
-Filettino,,
-Filetto,,
-Filiano,,
-Filighera,,
-Filignano,,
-Filogaso,,
-Filottrano,,
-Finale Emilia,,
-Finale Ligure,,
-Fino del Monte,,
-Fino Mornasco,,
-Fiorano al Serio,,
-Fiorano Canavese,,
-Fiorano Modenese,,
-Fiorenzuola d'Arda,,
-Firenze,,
-Firenzuola,,
-Firmo,,
-Fiscaglia,,
-Fisciano,,
-Fiuggi,,
-Fiumalbo,,
-Fiumara,,
-Fiume Veneto,,
-Fiumedinisi,,
-Fiumefreddo Bruzio,,
-Fiumefreddo di Sicilia,,
-Fiumicello Villa Vicentina,,
-Fiumicino,,
 Fiuminata,43.18745,12.932168
 Fivizzano,44.23835,10.12599
 Flaibano,46.0583326,12.9836421
@@ -2843,7 +2637,7 @@ Forio,40.7368416,13.8581354
 Forlì,44.2227278,12.041273
 Forlì del Sannio,41.695927,14.179517
 Forlimpopoli,44.1873049,12.1259056
-Formazza,46.391896849999995,8.39040060985974
+Formazza,46.39189685,8.39040060985974
 Formello,42.082521,12.400273
 Formia,41.259308,13.6080209
 Formicola,41.2104397,14.2327981
@@ -2925,7 +2719,7 @@ Frisanco,46.2127764,12.7270621
 Front,45.280852,7.663618
 Frontino,43.764558,12.376747
 Frontone,43.5137227,12.7344818
-Frosinone,41.628546799999995,13.57584977062367
+Frosinone,41.6285468,13.57584977062367
 Frosolone,41.600627,14.446525
 Frossasco,44.9329437,7.3502181
 Frugarolo,44.837151,8.681548
@@ -2938,7 +2732,7 @@ Funes,46.6451,11.6968408
 Furci,42.0079365,14.587875
 Furci Siculo,37.9612044,15.381735
 Furnari,38.1046713,15.1252231
-Furore,40.6189356,14.548136940664227
+Furore,40.6189356,14.548136940664229
 Furtei,39.5623694,8.944739
 Fuscaldo,39.414294,16.029787
 Fusignano,44.467572,11.960214
@@ -2947,7 +2741,7 @@ Futani,40.150703,15.323163
 Gabbioneta-Binanuova,45.218437,10.207746733741658
 Gabiano,45.156754,8.195231
 Gabicce Mare,43.9668745,12.7563105
-Gaby,45.710652350000004,7.890130560862689
+Gaby,45.71065235,7.890130560862689
 Gadesco-Pieve Delmona,45.16770335,10.114948209558456
 Gadoni,39.913451,9.185837
 Gaeta,41.218312,13.56281
@@ -3117,7 +2911,7 @@ Gioiosa Ionica,38.322175,16.302605
 Gioiosa Marea,38.1732691,14.8951639
 Giove,42.50941,12.3247903
 Giovinazzo,41.1875008,16.6716662
-Giovo,46.1858352,11.146776918113101
+Giovo,46.1858352,11.1467769181131
 Girasole,39.9517192,9.6619603
 Girifalco,38.8233552,16.4263838
 Gissi,42.0212271,14.5457485
@@ -3197,7 +2991,7 @@ Granze,45.154289,11.7134853
 Grassano,40.6326231,16.2828135
 Grassobbio,45.6572304,9.7231068
 Gratteri,37.9673767,13.9739295
-Gravedona ed Uniti,46.157675299999994,9.184375648009642
+Gravedona ed Uniti,46.1576753,9.184375648009642
 Gravellona Lomellina,45.327664,8.76414
 Gravellona Toce,45.930175,8.431222
 Gravere,45.125342,7.017507
@@ -3219,7 +3013,7 @@ Griante,45.995284,9.235538
 Gricignano di Aversa,40.9800924,14.2337107
 Grignasco,45.6840987,8.3378533
 Grigno,46.0170354,11.6359415
-Grimacco,46.167449149999996,13.581181386911549
+Grimacco,46.16744915,13.581181386911547
 Grimaldi,39.14199,16.235694
 Grinzane Cavour,44.65334,7.995036
 Grisignano di Zocco,45.4753396,11.6989495
@@ -3235,7 +3029,7 @@ Gropparello,44.8327057,9.729894
 Groscavallo,45.3684966,7.2587768
 Grosio,46.2989301,10.2745156
 Grosotto,46.2798623,10.2584412
-Grosseto,42.7751102,11.287804427628437
+Grosseto,42.7751102,11.287804427628435
 Grosso,45.257502,7.5579074
 Grottaferrata,41.788616,12.6667408
 Grottaglie,40.5361927,17.4342206
@@ -3249,7 +3043,7 @@ Grottole,40.6011322,16.3815386
 Grottolella,40.972716,14.78704
 Gruaro,45.8334955,12.8437093
 Grugliasco,45.068046,7.57762
-Grumello Cremonese ed Uniti,45.20073025,9.866094962209303
+Grumello Cremonese ed Uniti,45.20073025,9.866094962209305
 Grumello del Monte,45.637181,9.876759
 Grumento Nova,40.28281,15.888773
 Grumo Appula,41.013531,16.708483
@@ -3349,7 +3143,7 @@ Isola Sant'Antonio,45.0305007,8.8487341
 Isola Vicentina,45.6286685,11.4431478
 Isolabella,44.9067269,7.9101512
 Isolabona,43.8788708,7.6400263
-Isole Tremiti,42.11480025,15.487123914464327
+Isole Tremiti,42.11480025,15.487123914464329
 Isorella,45.3091728,10.3221777
 Ispani,40.087304,15.558269
 Ispica,36.7858666,14.9076362
@@ -3380,10 +3174,10 @@ L'Aquila,42.1368853,13.610341022538911
 La Cassa,45.1802806,7.5162134
 La Loggia,44.957744,7.667324
 La Maddalena,41.2127826,9.4066598
-La Magdeleine,45.814054049999996,7.62187523186885
+La Magdeleine,45.81405405,7.62187523186885
 La Morra,44.6384797,7.9325818
 La Salle,45.7454373,7.0705652
-La Spezia,44.23836595,9.691232634547537
+La Spezia,44.23836595,9.691232634547536
 La Thuile,45.7162875,6.9486119
 La Valle,46.6577188,11.9243258
 La Valle Agordina,46.2822728,12.0695095
@@ -3468,13 +3262,13 @@ Lavagno,45.4473983,11.1349412
 Lavarone,45.9445551,11.2880019
 Lavello,41.045625,15.790762
 Lavena Ponte Tresa,45.95973425,8.86164681646655
-Laveno-Mombello,45.909499600000004,8.611986418683628
+Laveno-Mombello,45.9094996,8.611986418683628
 Lavenone,45.739689,10.43907
 Laviano,40.7869048,15.3088435
 Lavis,46.1397416,11.1102267
 Lazise,45.5052005,10.7330245
 Lazzate,45.6723256,9.0852196
-Lecce,40.152217300000004,18.2260628338229
+Lecce,40.1522173,18.2260628338229
 Lecce nei Marsi,41.9377176,13.684116
 Lecco,45.9005485,9.41202482143963
 Ledro,45.8864143,10.7153848
@@ -3542,130 +3336,6 @@ Limbadi,38.5569904,15.964385
 Limbiate,45.5984024,9.1194356
 Limena,45.4743763,11.8449327
 Limido Comasco,45.689174,8.979838
-Limina,,
-Limone Piemonte,,
-Limone sul Garda,,
-Limosano,,
-Linarolo,,
-Linguaglossa,,
-Lioni,,
-Lipari,,
-Lipomo,,
-Lirio,,
-Liscate,,
-Liscia,,
-Lisciano Niccone,,
-Lisio,,
-Lissone,,
-Liveri,,
-Livigno,,
-Livinallongo del Col di Lana,,
-Livo,,
-Livo,,
-Livorno,,
-Livorno Ferraris,,
-Livraga,,
-Lizzanello,,
-Lizzano,,
-Lizzano in Belvedere,,
-Loano,,
-Loazzolo,,
-Locana,,
-Locate di Triulzi,,
-Locate Varesino,,
-Locatello,,
-Loceri,,
-Locorotondo,,
-Locri,,
-Loculi,,
-Lodè,,
-Lodi,,
-Lodi Vecchio,,
-Lodine,,
-Lodrino,,
-Lograto,,
-Loiano,,
-Loiri Porto San Paolo,,
-Lomagna,,
-Lomazzo,,
-Lombardore,,
-Lombriasco,,
-Lomello,,
-Lona-Lases,,
-Lonate Ceppino,,
-Lonate Pozzolo,,
-Lonato del Garda,,
-Londa,,
-Longano,,
-Longare,,
-Longarone,,
-Longhena,,
-Longi,,
-Longiano,,
-Longobardi,,
-Longobucco,,
-Longone al Segrino,,
-Longone Sabino,,
-Lonigo,,
-Loranzè,,
-Loreggia,,
-Loreglia,,
-Lorenzago di Cadore,,
-Loreo,,
-Loreto,,
-Loreto Aprutino,,
-Loria,,
-Loro Ciuffenna,,
-Loro Piceno,,
-Lorsica,,
-Losine,,
-Lotzorai,,
-Lovere,,
-Lovero,,
-Lozio,,
-Lozza,,
-Lozzo Atestino,,
-Lozzo di Cadore,,
-Lozzolo,,
-Lu,,
-Lubriano,,
-Lucca,,
-Lucca Sicula,,
-Lucera,,
-Lucignano,,
-Lucinasco,,
-Lucito,,
-Luco dei Marsi,,
-Lucoli,,
-Lugagnano Val d'Arda,,
-Lugnacco,,
-Lugnano in Teverina,,
-Lugo,,
-Lugo di Vicenza,,
-Luino,,
-Luisago,,
-Lula,,
-Lumarzo,,
-Lumezzane,,
-Lunamatrona,,
-Lunano,,
-Lungavilla,,
-Lungro,,
-Luni,,
-Luogosano,,
-Luogosanto,,
-Lupara,,
-Lurago d'Erba,,
-Lurago Marinone,,
-Lurano,,
-Luras,,
-Lurate Caccivio,,
-Lusciano,,
-Luserna,,
-Luserna San Giovanni,,
-Lusernetta,,
-Lusevera,,
-Lusia,,
 Lusiana,45.7851934,11.576369
 Lusigliè,45.3184013,7.7666516
 Luson,46.7464659,11.7610843
@@ -3675,12 +3345,12 @@ Luzzana,45.7163928,9.880496
 Luzzara,44.961655,10.6870685
 Luzzi,39.446105,16.287255
 Maccagno con Pino e Veddasca,46.07368475,8.776408469052992
-Maccastorna,45.144330499999995,9.855214994409522
+Maccastorna,45.1443305,9.855214994409522
 Macchia d'Isernia,41.561624,14.167119
 Macchia Valfortore,41.59503,14.911735
 Macchiagodena,41.559826,14.407824
 Macello,44.851139,7.39802
-Macerata,43.15297805,13.150882217502017
+Macerata,43.15297805,13.150882217502016
 Macerata Campania,41.063314,14.273728
 Macerata Feltria,43.8033644,12.4434146
 Macherio,45.640116,9.269371
@@ -3844,7 +3514,7 @@ Marsicovetere,40.3766014,15.8244926
 Marta,42.5339112,11.924912
 Martano,40.2036212,18.3019803
 Martellago,45.5466448,12.1576784
-Martello,46.5154661,10.721547199515971
+Martello,46.5154661,10.721547199515973
 Martignacco,46.097922,13.136825
 Martignana di Po,45.0111116,10.3797507
 Martignano,40.237425,18.255227
@@ -3903,7 +3573,7 @@ Massino Visconti,45.824206,8.5409419
 Massiola,45.9124295,8.3200782
 Masullas,39.6995595,8.7827237
 Matelica,43.25656,13.0105143
-Matera,40.447641899999994,16.47357384028852
+Matera,40.4476419,16.47357384028852
 Mathi,45.2551716,7.5419842
 Matino,40.0325103,18.1338533
 Matrice,41.6140982,14.7102079
@@ -3933,7 +3603,7 @@ Meduna di Livenza,45.8064433,12.6126854
 Meduno,46.2167789,12.785867
 Megliadino San Vitale,45.19214,11.5242368
 Meina,45.788773,8.538827
-Mel,46.02549195,12.105769480661987
+Mel,46.02549195,12.105769480661989
 Melara,45.0631847,11.1984576
 Melazzo,44.643944,8.424946
 Meldola,44.1267212,12.0611527
@@ -3988,7 +3658,7 @@ Mesola,44.9207815,12.2292244
 Mesoraca,39.0801269,16.789599
 Messina,38.1937571,15.5542082
 Mestrino,45.4427579,11.7582537
-Meta,40.640087,14.417599574733451
+Meta,40.640087,14.417599574733453
 Meugliano,45.490258,7.779416
 Mezzago,45.628977,9.44485
 Mezzana,46.3173162,10.8010074
@@ -4036,7 +3706,7 @@ Minori,40.652708,14.624941
 Minturno,41.2629744,13.7465219
 Minucciano,44.170449,10.207592
 Mioglia,44.4904597,8.4124727
-Mira,45.41199655,12.194210690028111
+Mira,45.41199655,12.194210690028113
 Mirabella Eclano,41.044919,14.998744
 Mirabella Imbaccari,37.324221,14.4463939
 Mirabello Monferrato,45.0355517,8.5232487
@@ -4056,7 +3726,7 @@ Misterbianco,37.5191722,15.0079363
 Mistretta,37.9298854,14.3628727
 Moasca,44.7627191,8.2778224
 Moconesi,44.433261,9.2139486
-Modena,44.5384728,10.935960870530739
+Modena,44.5384728,10.93596087053074
 Modica,36.8589209,14.7613018
 Modigliana,44.161163,11.793528
 Modolo,40.2750467,8.5291795
@@ -4089,7 +3759,7 @@ Moliterno,40.2421263,15.8689875
 Mollia,45.816669,8.030315
 Molochio,38.3084453,16.0318619
 Molteno,45.78038,9.307444
-Moltrasio,45.874050249999996,9.091480319324706
+Moltrasio,45.87405025,9.091480319324706
 Molvena,45.7441933,11.6141147
 Molveno,46.1421057,10.9637773
 Mombaldone,44.5695562,8.3301861
@@ -4141,7 +3811,7 @@ Mongiardino Ligure,44.6401393,9.0618536
 Mongiuffi Melia,37.9058768,15.2557181
 Mongrando,45.5277315,8.0105832
 Mongrassano,39.526897,16.110587
-Monguelfo-Tesido,46.78114465,12.118921771523121
+Monguelfo-Tesido,46.78114465,12.11892177152312
 Monguzzo,45.782867,9.2325793
 Moniga del Garda,45.528523,10.5375734
 Monleale,44.8870659,8.9802506
@@ -4204,7 +3874,7 @@ Monte di Malo,45.6604642,11.3625657
 Monte di Procida,40.800907,14.051827
 Monte Giberto,43.091253,13.630685
 Monte Grimano Terme,43.867661,12.471247
-Monte Isola,45.711994000000004,10.082235398202563
+Monte Isola,45.711994,10.082235398202563
 Monte Marenzo,45.770781,9.454647
 Monte Porzio,43.6896974,13.0456901
 Monte Porzio Catone,41.8164259,12.7153413
@@ -4417,7 +4087,7 @@ Moransengo,45.1148302,8.025051
 Moraro,45.9305709,13.4965303
 Morazzone,45.7649609,8.8315
 Morbegno,46.1321629,9.5694656
-Morbello,44.590801299999995,8.518386983551068
+Morbello,44.5908013,8.518386983551068
 Morciano di Leuca,39.847818,18.312432
 Morciano di Romagna,43.913748,12.6460672
 Morcone,41.3411011,14.6636259
@@ -4455,7 +4125,7 @@ Morsano al Tagliamento,45.8581407,12.9293364
 Morsasco,44.665346,8.550848
 Mortara,45.2513474,8.7374279
 Mortegliano,45.9458064,13.1727963
-Morterone,45.879514799999995,9.486226926439436
+Morterone,45.8795148,9.486226926439436
 Moruzzo,46.1202406,13.123152
 Moscazzano,45.292271,9.683461
 Moschiano,40.8742455,14.6583584
@@ -4586,7 +4256,6 @@ Noli,44.2058832,8.416419
 Nomaglio,45.53616,7.860317
 Nomi,45.928599,11.071881
 Nonantola,44.6776083,11.0436236
-None,44.933143,7.540121
 Nonio,45.845773,8.377522
 Noragugume,40.224555,8.920727
 Norbello,40.134752,8.832027
@@ -4602,7 +4271,7 @@ Nova Siri,40.148212,16.538889
 Novafeltria,43.8957266,12.2903985
 Novaledo,46.0228177,11.3664341
 Novalesa,45.1896401,7.0154982
-Novara,45.584250049999994,8.545996970894572
+Novara,45.58425005,8.545996970894572
 Novara di Sicilia,38.0160815,15.13183
 Novate Mezzola,46.2204654,9.4472208
 Novate Milanese,45.5319497,9.1401207
@@ -4640,7 +4309,7 @@ Occhieppo Inferiore,45.5528488,8.0230162
 Occhieppo Superiore,45.565062,8.001319
 Occhiobello,44.9212498,11.5813996
 Occimiano,45.060255,8.50764
-Ocre,42.281743649999996,13.470790427358592
+Ocre,42.28174365,13.470790427358592
 Odalengo Grande,45.1097598,8.1669027
 Odalengo Piccolo,45.071652,8.206033
 Oderzo,45.7833709,12.4937783
@@ -4824,7 +4493,7 @@ Paderno del Grappa,45.8281156,11.8577234
 Paderno Dugnano,45.5718756,9.1691935
 Paderno Franciacorta,45.5891866,10.076411
 Paderno Ponchielli,45.238872,9.930268
-Padova,45.391408,11.805848677115883
+Padova,45.391408,11.805848677115884
 Padria,40.396355,8.629919
 Padru,40.76577,9.520232
 Padula,40.3416425,15.658254
@@ -4951,7 +4620,7 @@ Paulilatino,40.0840316,8.7639366
 Paullo,45.4167873,9.3982408
 Paupisi,41.19532,14.665235
 Pavarolo,45.0724657,7.8346706
-Pavia,45.036854649999995,9.137825082826026
+Pavia,45.03685465,9.137825082826026
 Pavia di Udine,45.9963174,13.3041373
 Pavone Canavese,45.4375586,7.8517154
 Pavone del Mella,45.3012594,10.2084735
@@ -5017,7 +4686,7 @@ Pertica Alta,45.7444018,10.3439356
 Pertica Bassa,45.7544894,10.3746705
 Pertosa,40.5428799,15.4489662
 Pertusio,45.3567879,7.6385012
-Perugia,43.1070321,12.402996209906487
+Perugia,43.1070321,12.402996209906489
 Pesaro,43.9098114,12.9131228
 Pescaglia,43.966246,10.4111
 Pescantina,45.4833716,10.8691009
@@ -5075,7 +4744,7 @@ Piana Crixia,44.4861788,8.3061011
 Piana degli Albanesi,37.9948357,13.282689
 Piana di Monte Verna,41.167117,14.333728
 Piancastagnaio,42.8489666,11.6928811
-Piancogno,45.929513299999996,10.218470143286147
+Piancogno,45.9295133,10.218470143286147
 Piandimeleto,43.724158,12.411048
 Piane Crati,39.234093,16.325495
 Pianella,42.3960111,14.0462697
@@ -5222,253 +4891,6 @@ Platì,38.219972,16.046501
 Plaus,46.6565754,11.0414981
 Plesio,46.0463918,9.2302855
 Ploaghe,40.664262,8.741817
-Plodio,,
-Pocapaglia,,
-Pocenia,,
-Podenzana,,
-Podenzano,,
-Pofi,,
-Poggiardo,,
-Poggibonsi,,
-Poggio a Caiano,,
-Poggio Bustone,,
-Poggio Catino,,
-Poggio Imperiale,,
-Poggio Mirteto,,
-Poggio Moiano,,
-Poggio Nativo,,
-Poggio Picenze,,
-Poggio Renatico,,
-Poggio Rusco,,
-Poggio San Lorenzo,,
-Poggio San Marcello,,
-Poggio San Vicino,,
-Poggio Sannita,,
-Poggio Torriana,,
-Poggiodomo,,
-Poggiofiorito,,
-Poggiomarino,,
-Poggioreale,,
-Poggiorsini,,
-Poggiridenti,,
-Pogliano Milanese,,
-Pognana Lario,,
-Pognano,,
-Pogno,,
-Poirino,,
-Pojana Maggiore,,
-Polaveno,,
-Polcenigo,,
-Polesella,,
-Polesine Zibello,,
-Poli,,
-Polia,,
-Policoro,,
-Polignano a Mare,,
-Polinago,,
-Polino,,
-Polistena,,
-Polizzi Generosa,,
-Polla,,
-Pollein,,
-Pollena Trocchia,,
-Pollenza,,
-Pollica,,
-Pollina,,
-Pollone,,
-Pollutri,,
-Polonghera,,
-Polpenazze del Garda,,
-Polverara,,
-Polverigi,,
-Pomarance,,
-Pomaretto,,
-Pomarico,,
-Pomaro Monferrato,,
-Pomarolo,,
-Pombia,,
-Pomezia,,
-Pomigliano d'Arco,,
-Pompei,,
-Pompeiana,,
-Pompiano,,
-Pomponesco,,
-Pompu,,
-Poncarale,,
-Ponderano,,
-Ponna,,
-Ponsacco,,
-Ponso,,
-Pont-Canavese,,
-Pont-Saint-Martin,,
-Pontassieve,,
-Pontboset,,
-Ponte,,
-Ponte Buggianese,,
-Ponte dell'Olio,,
-Ponte di Legno,,
-Ponte di Piave,,
-Ponte Gardena,,
-Ponte in Valtellina,,
-Ponte Lambro,,
-Ponte nelle Alpi,,
-Ponte Nizza,,
-Ponte Nossa,,
-Ponte San Nicolò,,
-Ponte San Pietro,,
-Pontebba,,
-Pontecagnano Faiano,,
-Pontecchio Polesine,,
-Pontechianale,,
-Pontecorvo,,
-Pontecurone,,
-Pontedassio,,
-Pontedera,,
-Pontelandolfo,,
-Pontelatone,,
-Pontelongo,,
-Pontenure,,
-Ponteranica,,
-Pontestura,,
-Pontevico,,
-Pontey,,
-Ponti,,
-Ponti sul Mincio,,
-Pontida,,
-Pontinia,,
-Pontinvrea,,
-Pontirolo Nuovo,,
-Pontoglio,,
-Pontremoli,,
-Ponza,,
-Ponzano di Fermo,,
-Ponzano Monferrato,,
-Ponzano Romano,,
-Ponzano Veneto,,
-Ponzone,,
-Popoli,,
-Poppi,,
-Porano,,
-Porcari,,
-Porcia,,
-Pordenone,,
-Porlezza,,
-Pornassio,,
-Porpetto,,
-Portacomaro,,
-Portalbera,,
-Porte,,
-Porte di Rendena,,
-Portici,,
-Portico di Caserta,,
-Portico e San Benedetto,,
-Portigliola,,
-Porto Azzurro,,
-Porto Ceresio,,
-Porto Cesareo,,
-Porto Empedocle,,
-Porto Mantovano,,
-Porto Recanati,,
-Porto San Giorgio,,
-Porto Sant'Elpidio,,
-Porto Tolle,,
-Porto Torres,,
-Porto Valtravaglia,,
-Porto Viro,,
-Portobuffolè,,
-Portocannone,,
-Portoferraio,,
-Portofino,,
-Portogruaro,,
-Portomaggiore,,
-Portopalo di Capo Passero,,
-Portoscuso,,
-Portovenere,,
-Portula,,
-Posada,,
-Posina,,
-Positano,,
-Possagno,,
-Posta,,
-Posta Fibreno,,
-Postal,,
-Postalesio,,
-Postiglione,,
-Postua,,
-Potenza,,
-Potenza Picena,,
-Pove del Grappa,,
-Povegliano,,
-Povegliano Veronese,,
-Poviglio,,
-Povoletto,,
-Pozzaglia Sabina,,
-Pozzaglio ed Uniti,,
-Pozzallo,,
-Pozzilli,,
-Pozzo d'Adda,,
-Pozzol Groppo,,
-Pozzolengo,,
-Pozzoleone,,
-Pozzolo Formigaro,,
-Pozzomaggiore,,
-Pozzonovo,,
-Pozzuoli,,
-Pozzuolo del Friuli,,
-Pozzuolo Martesana,,
-Pradalunga,,
-Pradamano,,
-Pradleves,,
-Pragelato,,
-Praia a Mare,,
-Praiano,,
-Pralboino,,
-Prali,,
-Pralormo,,
-Pralungo,,
-Pramaggiore,,
-Pramollo,,
-Prarolo,,
-Prarostino,,
-Prasco,,
-Prascorsano,,
-Prata Camportaccio,,
-Prata d'Ansidonia,,
-Prata di Pordenone,,
-Prata di Principato Ultra,,
-Prata Sannita,,
-Pratella,,
-Pratiglione,,
-Prato,,
-Prato allo Stelvio,,
-Prato Carnico,,
-Prato Sesia,,
-Pratola Peligna,,
-Pratola Serra,,
-Pratovecchio Stia,,
-Pravisdomini,,
-Pray,,
-Prazzo,,
-Pré-Saint-Didier,,
-Precenicco,,
-Preci,,
-Predaia,,
-Predappio,,
-Predazzo,,
-Predoi,,
-Predore,,
-Predosa,,
-Preganziol,,
-Pregnana Milanese,,
-Prelà,,
-Premana,,
-Premariacco,,
-Premeno,,
-Premia,,
-Premilcuore,,
-Premolo,,
-Premosello-Chiovenda,,
-Preone,,
 Prepotto,46.045723,13.479434
 Preseglie,45.668287,10.39677
 Presenzano,41.376619,14.07642
@@ -5501,7 +4923,7 @@ Prunetto,44.4884408,8.14375
 Puegnago sul Garda,45.56938895,10.510107562189347
 Puglianello,41.2233762,14.4507163
 Pula,39.007433,9.001646
-Pulfero,46.179274649999996,13.477992753678672
+Pulfero,46.17927465,13.477992753678672
 Pulsano,40.3846927,17.3556699
 Pumenengo,45.479947,9.8701285
 Pusiano,45.81388,9.281843
@@ -5600,10 +5022,10 @@ Remanzacco,46.0855837,13.3243217
 Remedello,45.2794982,10.3717426
 Renate,45.724378,9.279944
 Rende,39.3319934,16.1843828
-Renon,46.5629355,11.441434954745159
+Renon,46.5629355,11.44143495474516
 Resana,45.6340237,11.9552929
 Rescaldina,45.6159737,8.9489311
-Resia,46.34737345,13.336066288071667
+Resia,46.34737345,13.336066288071668
 Resiutta,46.393086,13.218578
 Resuttano,37.678648,14.029464
 Retorbido,44.9493005,9.0361743
@@ -5641,7 +5063,7 @@ Rignano Garganico,41.6770126,15.5875171
 Rignano sull'Arno,43.72105,11.451427
 Rigolato,46.552831,12.85211
 Rimella,45.9075478,8.1813547
-Rimini,43.946543250000005,12.630749019254939
+Rimini,43.946543250000005,12.63074901925494
 Rio,42.8325485,10.4117773
 Rio di Pusteria,46.7959461,11.6668266
 Rio Saliceto,44.8100097,10.8030993
@@ -5685,7 +5107,7 @@ Rive,45.2129062,8.4177041
 Rive d'Arcano,46.1260654,13.031579
 Rivello,40.078005,15.756073
 Rivergaro,44.9102508,9.5965212
-Rivignano Teor,45.86130025,13.047569116314943
+Rivignano Teor,45.86130025,13.047569116314945
 Rivisondoli,41.8708957,14.0674295
 Rivodutri,42.516434,12.854977
 Rivoli,45.0697151,7.5176764
@@ -5734,7 +5156,7 @@ Rocca San Giovanni,42.2507698,14.4648413
 Rocca Santa Maria,42.6863128,13.5281707
 Rocca Santo Stefano,41.910522,13.023789
 Rocca Sinibalda,42.274429,12.925582
-Rocca Susella,44.91915315,9.094130831282783
+Rocca Susella,44.91915315,9.094130831282785
 Roccabascerana,41.0184431,14.7163176
 Roccabernarda,39.1340896,16.8696568
 Roccabianca,45.009369,10.219378
@@ -5755,7 +5177,7 @@ Roccalbegna,42.7859754,11.5076818
 Roccalumera,37.976263,15.395189
 Roccamandolfi,41.497124,14.353824
 Roccamena,37.836028,13.1538583
-Roccamonfina,41.282197249999996,13.995372360338628
+Roccamonfina,41.28219725,13.995372360338628
 Roccamontepiano,42.2447175,14.1268959
 Roccamorice,42.2134993,14.0245894
 Roccanova,40.212011,16.203181
@@ -5938,7 +5360,7 @@ Sagliano Micca,45.625764,8.043319
 Sagrado,45.8758434,13.485523
 Sagron Mis,46.1913955,11.9335607
 Saint-Christophe,45.7474199,7.3561685
-Saint-Denis,45.76471385,7.5713309294771065
+Saint-Denis,45.76471385,7.571330929477106
 Saint-Marcel,45.7345596,7.4461962
 Saint-Nicolas,45.7160778,7.167982
 Saint-Oyen,45.8246437,7.2131752
@@ -5967,7 +5389,7 @@ Salemi,37.8173706,12.800945
 Salento,40.248604,15.190058
 Salerano Canavese,45.458058,7.851118
 Salerano sul Lambro,45.296569,9.385155
-Salerno,40.419441649999996,15.310608468834516
+Salerno,40.41944165,15.310608468834516
 Salgareda,45.704123,12.4925871
 Sali Vercellese,45.309859,8.328931
 Salice Salentino,40.3856618,17.9637483
@@ -5987,7 +5409,7 @@ Saluzzo,44.6446052,7.4926009
 Salve,39.861318,18.293332
 Salvirola,45.3555434,9.7802426
 Salvitelle,40.590913,15.45876
-Salza di Pinerolo,44.934634849999995,7.034466818653048
+Salza di Pinerolo,44.93463485,7.034466818653048
 Salza Irpina,40.9200633,14.8893502
 Salzano,45.521344,12.1063704
 Samarate,45.6281817,8.7843049
@@ -6068,7 +5490,7 @@ San Donato di Lecce,40.268126,18.184225
 San Donato di Ninea,39.7116002,16.0484912
 San Donato Milanese,45.41807,9.27165
 San Donato Val di Comino,41.708124,13.812609
-San Dorligo della Valle,45.612601999999995,13.853506110585453
+San Dorligo della Valle,45.612602,13.853506110585451
 San Fele,40.8193255,15.5384276
 San Felice a Cancello,41.0123935,14.4829931
 San Felice Circeo,41.2326171,13.0893977
@@ -6309,7 +5731,7 @@ San Secondo Parmense,44.9201605,10.229558
 San Severino Lucano,40.020607,16.137882
 San Severino Marche,43.2290211,13.1779663
 San Severo,41.6897761,15.3776211
-San Siro,45.478200349999995,9.123963993342393
+San Siro,45.47820035,9.123963993342391
 San Sossio Baronia,41.071221,15.200548
 San Sostene,38.6378282,16.4871289
 San Sosti,39.6609483,16.0282277
@@ -6374,7 +5796,7 @@ Sant'Agata li Battiati,37.558273,15.0808128
 Sant'Agata sul Santerno,44.44217,11.860124
 Sant'Agnello,40.630006,14.397136
 Sant'Albano Stura,44.508934,7.722333
-Sant'Alessio con Vialone,45.2246868,9.229855325290961
+Sant'Alessio con Vialone,45.2246868,9.22985532529096
 Sant'Alessio in Aspromonte,38.172569,15.757795
 Sant'Alessio Siculo,37.9244943,15.3492875
 Sant'Alfio,37.7415805,15.1429052
@@ -6480,7 +5902,7 @@ Santa Maria Imbaro,42.21774,14.449216
 Santa Maria la Carità,40.7210029,14.5128197
 Santa Maria la Fossa,41.091714,14.128224
 Santa Maria la Longa,45.9330523,13.2880233
-Santa Maria Maggiore,41.89762675,12.498470031880899
+Santa Maria Maggiore,41.89762675,12.4984700318809
 Santa Maria Nuova,43.49406,13.311672
 Santa Marina,40.104304,15.540468
 Santa Marina Salina,38.56117,14.870772
@@ -6533,7 +5955,7 @@ Sarconi,40.2471338,15.8887046
 Sardara,39.616442,8.820634
 Sardigliano,44.7528851,8.896325
 Sarego,45.4081213,11.4055589
-Sarentino,46.69535665,11.387392520694535
+Sarentino,46.69535665,11.387392520694537
 Sarezzano,44.8676119,8.9126635
 Sarezzo,45.6618702,10.1958762
 Sarmato,45.0597632,9.4913135
@@ -6576,7 +5998,7 @@ Savignano sul Rubicone,44.0925118,12.3991309
 Savignone,44.5641434,8.9895956
 Saviore dell'Adamello,46.080497,10.399663
 Savoca,37.9558591,15.3393223
-Savogna,46.180222799999996,13.55216324965754
+Savogna,46.1802228,13.55216324965754
 Savogna d'Isonzo,45.9058822,13.5748641
 Savoia di Lucania,40.569813,15.552562
 Savona,44.2334238,8.252572737021062
@@ -6775,7 +6197,7 @@ Sicignano degli Alburni,40.560311,15.303957
 Siculiana,37.3380858,13.4219962
 Siddi,39.6721984,8.8883714
 Siderno,38.2761626,16.2981599
-Siena,43.167205949999996,11.467561040475552
+Siena,43.16720595,11.467561040475552
 Sigillo,43.3312955,12.7423157
 Signa,43.7806931,11.0964527
 Silandro,46.6280688,10.7734765
@@ -6855,13 +6277,13 @@ Sommo,45.1306498,9.0833839
 Sona,45.433438,10.8327372
 Soncino,45.3997776,9.8735176
 Sondalo,46.331392,10.3248633
-Sondrio,46.32336235,10.258413671017703
+Sondrio,46.32336235,10.258413671017705
 Songavazzo,45.8801495,9.9897924
 Sonico,46.165499,10.35286
 Sonnino,41.4142717,13.2415295
 Soprana,45.6397173,8.2021971739853
 Sora,41.7203358,13.6139576
-Soraga di Fassa,46.394059150000004,11.671768281623553
+Soraga di Fassa,46.39405915,11.671768281623551
 Soragna,44.9281878,10.1235973
 Sorano,42.6814665,11.7135722
 Sorbo San Basile,39.01939,16.569103
@@ -7035,7 +6457,7 @@ Taranto,40.54881555,17.08058012454743
 Tarcento,46.2156457,13.2221061
 Tarquinia,42.2532394,11.7591747
 Tarsia,39.6183382,16.2731177
-Tartano,46.103228099999995,9.686932812985447
+Tartano,46.1032281,9.686932812985448
 Tarvisio,46.5052624,13.5783734
 Tarzo,45.9735216,12.2316099
 Tassarolo,44.728549,8.771552
@@ -7086,7 +6508,7 @@ Termini Imerese,37.983651,13.695554
 Termoli,41.9983273,14.9939366
 Ternate,45.7822863,8.6903182
 Ternengo,45.5897478,8.1160279
-Terni,42.6539486,12.439652829139407
+Terni,42.6539486,12.439652829139408
 Terno d'Isola,45.685479,9.530951
 Terracina,41.2871196,13.2492009
 Terragnolo,45.8652491,11.1774221
@@ -7186,27 +6608,6 @@ Torrazza Coste,44.9759482,9.0878226
 Torrazza Piemonte,45.2154216,7.9745034
 Torrazzo,45.4983802,7.9536482
 Torre Annunziata,40.7525236,14.4550044
-Torre Beretti e Castellaro,,
-Torre Boldone,,
-Torre Bormida,,
-Torre Cajetani,,
-Torre Canavese,,
-Torre d'Arese,,
-Torre d'Isola,,
-Torre de' Busi,,
-Torre de' Negri,,
-Torre de' Passeri,,
-Torre de' Picenardi,,
-Torre de' Roveri,,
-Torre del Greco,,
-Torre di Mosto,,
-Torre di Ruggiero,,
-Torre di Santa Maria,,
-Torre Le Nocelle,,
-Torre Mondovì,,
-Torre Orsaia,,
-Torre Pallavicina,,
-Torre Pellice,,
 Torre San Giorgio,44.7357389,7.5281276
 Torre San Patrizio,43.182855,13.612784
 Torre Santa Susanna,40.465627,17.735612
@@ -7315,7 +6716,7 @@ Trevignano,45.733501,12.0940161
 Trevignano Romano,42.1559258,12.2461954
 Treville,45.096854,8.359536
 Treviolo,45.6715427,9.6117418
-Treviso,45.806691349999994,12.206315763116372
+Treviso,45.80669135,12.206315763116372
 Treviso Bresciano,45.713168,10.4636226
 Trezzano Rosa,45.5828314,9.4870409
 Trezzano sul Naviglio,45.4182125,9.0710538
@@ -7380,7 +6781,7 @@ Turrivalignani,42.2632704,14.0285774
 Tursi,40.2462858,16.4692793
 Tusa,37.9844075,14.237715
 Tuscania,42.4202141,11.8702611
-Ubiale Clanezzo,45.7809355,9.605822443395475
+Ubiale Clanezzo,45.7809355,9.605822443395477
 Uboldo,45.6109052,9.0033882
 Ucria,38.0459194,14.8811122
 Udine,46.0634632,13.2358377
@@ -7389,7 +6790,7 @@ Uggiano la Chiesa,40.101724,18.449333
 Uggiate-Trevano,45.8206876,8.955261708748207
 Ulà Tirso,40.045951,8.904029
 Ulassai,39.810552,9.499045
-Ultimo,46.512090549999996,10.899735392353554
+Ultimo,46.51209055,10.899735392353554
 Umbertide,43.3056365,12.3366222
 Umbriatico,39.3545008,16.9187095
 Urago d'Oglio,45.515978,9.869661
@@ -7406,7 +6807,7 @@ Urzulei,40.0933379,9.5080494
 Uscio,44.4133432,9.1625628
 Usellus,39.809646,8.850732
 Usini,40.66406,8.540513
-Usmate Velate,45.65245845,9.354341941243387
+Usmate Velate,45.65245845,9.354341941243389
 Ussana,39.394641,9.073242
 Ussaramanna,39.692845,8.907634
 Ussassai,39.810827,9.3947865
@@ -7434,10 +6835,10 @@ Vajont,46.1461361,12.6974467
 Val Brembilla,45.82464265,9.601566098800856
 Val della Torre,45.155147,7.445015
 Val di Nizza,44.870977100000005,9.1758229144576
-Val di Vizze,46.948927749999996,11.57776567415429
+Val di Vizze,46.94892775,11.57776567415429
 Val di Zoldo,46.3422944,12.1563125
 Val Liona,45.410202,11.4720786
-Val Masino,46.245654650000006,9.637888271753003
+Val Masino,46.245654650000006,9.637888271753004
 Val Rezzo,46.0702578,9.100887328188335
 Valbondione,46.034193,10.005855
 Valbrembo,45.717833,9.6075364
@@ -7482,7 +6883,7 @@ Valle Aurina,46.98829205,11.943646067399136
 Valle Castellana,42.7364456,13.4969394
 Valle dell'Angelo,40.343808,15.368461
 Valle di Cadore,46.4173559,12.3319828
-Valle di Casies,46.824096499999996,12.232500513786313
+Valle di Casies,46.8240965,12.232500513786311
 Valle di Maddaloni,41.0784365,14.415305738391762
 Valle Lomellina,45.153058,8.668542
 Valle Mosso,45.6346399,8.1415916
@@ -7495,7 +6896,7 @@ Valledolmo,37.747448,13.827859
 Valledoria,40.928283,8.8245837
 Vallefiorita,38.776385,16.461003
 Vallefoglia,43.8284048,12.7247
-Vallelaghi,46.099826750000005,11.016184907530837
+Vallelaghi,46.099826750000005,11.016184907530835
 Vallelonga,38.647094,16.2953
 Vallelunga Pratameno,37.682047,13.83156
 Vallemaio,41.3662391,13.811748
@@ -7522,10 +6923,10 @@ Valnegra,45.9494102,9.6900185
 Valpelline,45.8244604,7.3241526
 Valperga,45.3705918,7.6569215
 Valprato Soana,45.5214814,7.5493546
-Valsamoggia,44.439823649999994,11.059274991313368
-Valsavarenche,45.562003399999995,7.22629139354717
+Valsamoggia,44.43982365,11.059274991313368
+Valsavarenche,45.5620034,7.22629139354717
 Valsinni,40.169912,16.443487
-Valsolda,46.029095299999994,9.043912334526064
+Valsolda,46.0290953,9.043912334526064
 Valstagna,45.8599717,11.6583473
 Valstrona,45.9229542,8.256254837287017
 Valtopina,43.0582825,12.7546565
@@ -7533,7 +6934,7 @@ Valtorta,45.977787,9.534945
 Valtournenche,45.8769793,7.622792
 Valva,40.738215,15.269454
 Valvarrone,46.0848895,9.3614476
-Valvasone Arzene,45.9952108,12.866310055400877
+Valvasone Arzene,45.9952108,12.866310055400875
 Valverde,37.576954,15.124188
 Valverde,37.576954,15.124188
 Valvestino,45.762092,10.5946459
@@ -7553,7 +6954,7 @@ Varco Sabino,42.239829,13.019884
 Varedo,45.5974437,9.1562926
 Varena,46.3035575,11.4559989
 Varenna,46.0099785,9.2831593
-Varese,45.839720299999996,8.754133838056571
+Varese,45.8397203,8.754133838056571
 Varese Ligure,44.3760527,9.5926994
 Varisella,45.2099414,7.4886064
 Varmo,45.887015,12.987726
@@ -7587,7 +6988,7 @@ Velo Veronese,45.6050596,11.0957685
 Velturno,46.6686743,11.5984388
 Venafro,41.483425,14.045112
 Venaria Reale,45.1348114,7.6268658
-Venarotta,42.8917055,13.493211400853397
+Venarotta,42.8917055,13.493211400853395
 Venasca,44.5621634,7.3968654
 Venaus,45.1549096,7.0125697
 Vendone,44.0747064,8.0739301
@@ -7631,7 +7032,7 @@ Verolanuova,45.3285814,10.0760863
 Verolavecchia,45.3270123,10.0572562
 Verolengo,45.1895918,7.9662734
 Veroli,41.6912736,13.4176298
-Verona,45.442497700000004,10.985737689444763
+Verona,45.4424977,10.985737689444765
 Veronella,45.3249693,11.3222608
 Verrayes,45.7692822,7.523777104664875
 Verrès,45.6687182,7.6907582
@@ -7639,7 +7040,7 @@ Verretto,45.0392343,9.1084758
 Verrone,45.503662,8.119023
 Verrua Po,45.1096492,9.1755596
 Verrua Savoia,45.156707,8.092761
-Vertemate con Minoprio,45.7282151,9.078414742842819
+Vertemate con Minoprio,45.7282151,9.07841474284282
 Vertova,45.8102188,9.8535071
 Verucchio,43.983611,12.4211632
 Veruno,45.6906946,8.5307821
@@ -7953,3 +7354,1199 @@ Zumaglia,45.593864,8.089421
 Zumpano,39.310894,16.292094
 Zungoli,41.125322,15.203648
 Zungri,38.6554505,15.9820554
+Doues,45.8193912,7.3065823
+Dovadola,44.1225739,11.888255
+Dovera,45.3651533,9.5416879
+Dozza,44.3593911,11.6288788
+Dragoni,41.2702398,14.3097725
+Drapia,38.6645238,15.9103631
+Drena,45.969299,10.944477
+Drenchia,46.17417335,13.636537376557971
+Dresano,45.3729705,9.3606419
+Drizzona,45.142174,10.350279
+Dro,45.961471,10.9111105
+Dronero,44.4659423,7.3672557
+Druento,45.1344531,7.5764559
+Druogno,46.1351172,8.4342016
+Dualchi,40.228855,8.896427
+Dubino,46.15342,9.4613327
+Due Carrare,45.2905049,11.8217529
+Dueville,45.6355174,11.5485978
+Dugenta,41.132217,14.452431
+Duino Aurisina,45.7703815,13.675293129019462
+Dumenza,46.0191641,8.7871203
+Duno,45.9142022,8.7378781
+Durazzano,41.0624811,14.4474777
+Duronia,41.658928,14.458424
+Dusino San Michele,44.9254929,7.9721895
+Eboli,40.6175146,15.0569438
+Edolo,46.1793752,10.3307572
+Egna,46.3169161,11.2725698
+Elice,42.5182752,13.9682818
+Elini,39.8999005,9.531347
+Ello,45.78568,9.365345
+Elmas,39.2680862,9.0496306
+Elva,44.5405393,7.0904585
+Emarèse,45.7233681,7.7006507104171344
+Empoli,43.7194884,10.9458556
+Endine Gaiano,45.792486,9.969058
+Enego,45.9404927,11.7096122
+Enemonzo,46.4109017,12.8787158
+Enna,37.5667573,14.2807473
+Entracque,44.241425,7.399331
+Entratico,45.7056148,9.8746256
+Envie,44.682235,7.371123
+Episcopia,40.074807,16.098181
+Eraclea,45.5762676,12.6729111
+Erba,45.8097196,9.2166985
+Erbè,45.2409293,10.9684847
+Erbezzo,45.6400226,11.001577
+Erbusco,45.5984995,9.9722164
+Erchie,40.4360421,17.7346286
+Ercolano,40.8053613,14.34710362484318
+Erice,38.0382301,12.5871823
+Erli,44.137529,8.103148
+Erto e Casso,46.27709185,12.35955523234766
+Erula,40.791166,8.942219
+Erve,45.821582,9.452846
+Esanatoglia,43.252208,12.9478268
+Escalaplano,39.626647,9.357144
+Escolca,39.698446,9.121539
+Esine,45.9258392,10.2508308
+Esino Lario,45.9939388,9.3332004
+Esperia,41.3839494,13.6806101
+Esporlatu,40.3866072,8.9897133
+Este,45.2240069,11.659796
+Esterzili,39.779149,9.284741
+Etroubles,45.8205823,7.230574
+Eupilio,45.8182246,9.2646735
+Exilles,45.0973834,6.9290646
+Fabbrica Curone,44.784954,9.147559
+Fabbriche di Vergemoli,44.0148355,10.3910521
+Fabbrico,44.8720906,10.8100618
+Fabriano,43.3358407,12.9046187
+Fabrica di Roma,42.335126,12.299767
+Fabrizia,38.487078,16.301003
+Fabro,42.8634804,12.0128824
+Faedis,46.150325,13.346429
+Faedo,46.1922976,11.1618628
+Faedo Valtellino,46.152995,9.90605
+Faenza,44.2855555,11.8832055
+Faeto,41.325426,15.159844
+Fagagna,46.1134401,13.0845716
+Faggeto Lario,45.8580786,9.170904424243696
+Faggiano,41.1096747,14.5217599
+Fagnano Alto,42.2541805,13.5974586
+Fagnano Castello,39.565697,16.0536725
+Fagnano Olona,45.6689478,8.8727714
+Fai della Paganella,46.1793313,11.0689304
+Faicchio,41.2780306,14.4787446
+Falcade,46.3581276,11.8721031
+Falciano del Massico,41.165122,13.9494528
+Falconara Albanese,39.275892,16.09179
+Falconara Marittima,43.6293969,13.3966763
+Falcone,38.1174821,15.0796108
+Faleria,42.2261788,12.4431811
+Falerna,39.002487,16.170695
+Falerone,43.107052,13.471682
+Fallo,41.938333,14.323617
+Falmenta,46.0728808,8.5918986
+Faloppio,45.80889055,8.971172866090171
+Falvaterra,41.505118,13.523806
+Falzes,46.8119803,11.8840064
+Fanano,44.2077372,10.7938365
+Fanna,46.1871178,12.7530826
+Fano,43.8424173,13.0146632
+Fano Adriano,42.5521311,13.5379617
+Fara Filiorum Petri,42.2486966,14.1859179
+Fara Gera d'Adda,45.555676,9.537853
+Fara in Sabina,42.20949,12.7293473
+Fara Novarese,45.5551594,8.4589412
+Fara Olivana con Sola,45.49172015,9.737362446324912
+Fara San Martino,42.0898152,14.2053326
+Fara Vicentino,45.7395927,11.5482872
+Fardella,40.113809,16.169782
+Farigliano,44.5120312,7.914245
+Farindola,42.4411465,13.8234374
+Farini,44.7128373,9.5692864
+Farnese,42.549426,11.725652
+Farra d'Isonzo,45.90802,13.5165379
+Farra di Soligo,45.9053812,12.1254301
+Fasano,40.834432,17.358399
+Fascia,44.5719677,9.2356396
+Fauglia,43.570638,10.514409
+Faule,44.8056734,7.5805033
+Favale di Malvaro,44.4529968,9.2595603
+Favara,37.3161967,13.6624175
+Favignana,37.9314018,12.3274291
+Favria,45.331154,7.690617
+Feisoglio,44.543739,8.104941
+Feletto,45.303853,7.744719
+Felino,44.6965871,10.2372047
+Felitto,40.373507,15.243058
+Felizzano,44.8999639,8.4362123
+Feltre,46.0163755,11.9062541
+Fenegrò,45.7007039,8.998617
+Fenestrelle,45.0360951,7.0495615
+Fénis,45.7360127,7.4943705
+Ferentillo,42.6207678,12.7887263
+Ferentino,41.692932,13.2534215
+Ferla,37.1185821,14.9411382
+Fermignano,43.6767577,12.6453734
+Fermo,43.0922489,13.638768067263769
+Ferno,45.6141475,8.7545482
+Feroleto Antico,38.9610947,16.3883274
+Feroleto della Chiesa,38.465776,16.064198
+Ferrandina,40.501218,16.454683
+Ferrara,44.76676425,11.827938995640167
+Ferrara di Monte Baldo,45.6769155,10.8543397
+Ferrazzano,41.5309467,14.6710473
+Ferrera di Varese,45.9345252,8.7858239
+Ferrera Erbognone,45.115059,8.864347
+Ferrere,44.875446,7.994732
+Ferriere,44.6441441,9.4974568
+Ferruzzano,38.0355167,16.0912647
+Fiamignano,42.2650331,13.1263626
+Fiano,45.2168706,7.5226852
+Fiano Romano,42.1719129,12.5927265
+Fiastra,43.0361407,13.1554547
+Fiavè,46.0045798,10.8420518
+Ficarazzi,38.0884578,13.4637863
+Ficarolo,44.9537986,11.4357293
+Ficarra,38.109061,14.828976
+Ficulle,42.8362745,12.0656093
+Fidenza,44.866522,10.0611939
+Fiè allo Sciliar,46.5177697,11.5027759
+Fierozzo,46.1080873,11.3463101
+Fiesco,45.3363613,9.7776099
+Fiesole,43.8066689,11.2930735
+Fiesse,45.231475,10.324177
+Fiesso d'Artico,45.417348,12.0331806
+Fiesso Umbertiano,44.9611843,11.6046419
+Figino Serenza,45.7097797,9.1289394
+Figline e Incisa Valdarno,43.6307949,11.4629459
+Figline Vegliaturo,39.225192,16.330296
+Filacciano,42.254826,12.597675
+Filadelfia,38.7838211,16.2912123
+Filago,45.637578,9.556352
+Filandari,38.61956525,16.032063666497855
+Filattiera,44.3307913,9.934823
+Filettino,41.891424,13.327496
+Filetto,42.2282241,14.2450948
+Filiano,40.8318792,15.7162915
+Filighera,45.177065,9.315955
+Filignano,41.545332,14.0561754
+Filogaso,38.6803711,16.2303177
+Filottrano,43.436659,13.354474
+Finale Emilia,44.834574,11.293905
+Finale Ligure,44.1689049,8.3436524
+Fino del Monte,45.8903679,9.9926194
+Fino Mornasco,45.742876,9.047639
+Fiorano al Serio,45.7998409,9.8422937
+Fiorano Canavese,45.467758,7.833718
+Fiorano Modenese,44.539143,10.8118482
+Fiorenzuola d'Arda,44.9280841,9.9107218
+Firenze,43.7697955,11.2556404
+Firenzuola,44.1190791,11.3792271
+Firmo,39.721401,16.170186
+Fiscaglia,44.7941326,12.029515
+Fisciano,40.772812,14.799443
+Fiuggi,41.7985608,13.2204887
+Fiumalbo,44.1799513,10.6477331
+Fiumara,38.212669,15.693693
+Fiume Veneto,45.9279427,12.7321755
+Fiumedinisi,38.0262382,15.3820835
+Fiumefreddo Bruzio,39.2347925,16.0671836
+Fiumefreddo di Sicilia,37.7923548,15.2069456
+Fiumicello Villa Vicentina,45.7836083,13.413018658333332
+Fiumicino,41.7712145,12.2278855
+Limina,37.9407737,15.2726676
+Limone Piemonte,44.202726,7.576336
+Limone sul Garda,45.8141194,10.7915786
+Limosano,41.67633,14.622428
+Linarolo,45.1609808,9.2709102
+Linguaglossa,37.8409138,15.1437161
+Lioni,40.876517,15.187751
+Lipari,38.4681846,14.9547202
+Lipomo,45.7945033,9.1216456
+Lirio,44.993982,9.255568
+Liscate,45.4815487,9.4090115
+Liscia,41.955235,14.555322
+Lisciano Niccone,43.246844,12.14305
+Lisio,44.307132,7.978742
+Lissone,45.6107705,9.2408409
+Liveri,38.1234806,15.0608492
+Livigno,46.5381734,10.1359928
+Livinallongo del Col di Lana,46.5066339,11.9368121
+Livo,46.404711,11.019271
+Livo,46.404711,11.019271
+Livorno,42.7902166,10.340278678735023
+Livorno Ferraris,45.2814818,8.0821574
+Livraga,45.192268,9.54646
+Lizzanello,40.304127,18.222525
+Lizzano,40.391023,17.447607
+Lizzano in Belvedere,44.1618295,10.8940436
+Loano,44.1287537,8.2593713
+Loazzolo,44.669043,8.258442
+Locana,45.4176538,7.4588144
+Locate di Triulzi,45.3579318,9.2246411
+Locate Varesino,45.6888509,8.9306787
+Locatello,45.8345021,9.5332605
+Loceri,39.8566346,9.5822088
+Locorotondo,40.78696905,17.298052515685676
+Locri,38.2385368,16.2655092
+Loculi,40.4072775,9.6111604
+Lodè,40.5913866,9.5397954
+Lodi,45.2613104,9.491678060021837
+Lodi Vecchio,45.301075,9.4165986
+Lodine,40.1480795,9.2182943
+Lodrino,45.719687,10.277667
+Lograto,45.4842379,10.0532758
+Loiano,44.26833,11.3234319
+Loiri Porto San Paolo,40.8763052,9.6294901
+Lomagna,45.667978,9.376047
+Lomazzo,45.6984514,9.0363529
+Lombardore,45.2352282,7.7365518
+Lombriasco,44.840941,7.635925
+Lomello,45.121059,8.796245
+Lona-Lases,46.1498177,11.2191675
+Lonate Ceppino,45.7045034,8.8742864
+Lonate Pozzolo,45.5967722,8.7547313
+Lonato del Garda,45.4610389,10.4845346
+Londa,43.8605674,11.5668116
+Longano,41.521623,14.245621
+Longare,45.4746344,11.6110489
+Longarone,46.265786,12.2999366
+Longhena,45.437678,10.059667
+Longi,38.0272713,14.752656
+Longiano,44.0743778,12.3274733
+Longobardi,39.20709,16.07649
+Longobucco,39.448299,16.610499
+Longone al Segrino,45.819244,9.2504238
+Longone Sabino,42.27313,12.967383
+Lonigo,45.3881155,11.38799
+Loranzè,45.441657,7.812718
+Loreggia,45.594524,11.9446117
+Loreglia,45.9065807,8.3711904
+Lorenzago di Cadore,46.479626,12.459403
+Loreo,45.0619946,12.1889247
+Loreto,43.439498,13.6070214
+Loreto Aprutino,42.434634,13.9832322
+Loria,45.7284237,11.8655848
+Loro Ciuffenna,43.5922862,11.6330068
+Loro Piceno,43.1661204,13.4164033
+Lorsica,44.445276,9.2843109
+Losine,45.983494,10.316163
+Lotzorai,39.9691548,9.6637148
+Lovere,45.8168815,10.0752136
+Lovero,46.2314,10.228556
+Lozio,45.9861029,10.2603604
+Lozza,45.775675,8.857734
+Lozzo Atestino,45.2909178,11.6304106
+Lozzo di Cadore,46.4845717,12.4433413
+Lozzolo,45.6256427,8.3217739
+Lu,44.017763900000006,10.454430026192636
+Lubriano,42.636231,12.108759
+Lucca,44.017763900000006,10.454430026192636
+Lucca Sicula,37.5790488,13.3065678
+Lucera,41.5082727,15.3376465
+Lucignano,43.2744629,11.7459997
+Lucinasco,43.9680214,7.9639801
+Lucito,41.731931,14.687228
+Luco dei Marsi,41.957027,13.473598
+Lucoli,42.2515538,13.3768818
+Lugagnano Val d'Arda,44.821994,9.8284819
+Lugnacco,45.445057,7.782117
+Lugnano in Teverina,42.5742259,12.3307848
+Lugo,44.4202951,11.911365
+Lugo di Vicenza,45.7529864,11.5233854
+Luino,45.9989084,8.739907
+Luisago,45.762877,9.035438
+Lula,40.470364,9.486435
+Lumarzo,44.4528876,9.1326199
+Lumezzane,45.6482576,10.2645464
+Lunamatrona,39.650544,8.899335
+Lunano,43.7304752,12.4414172
+Lungavilla,45.04066,9.081353
+Lungro,39.7422654,16.1228246
+Luni,44.0778272,10.030189
+Luogosano,40.985631,14.9919563
+Luogosanto,41.0546565,9.20409
+Lupara,41.7627311,14.7330086
+Lurago d'Erba,45.7470528,9.2145019
+Lurago Marinone,45.705775,8.981338
+Lurano,45.565677,9.640155
+Luras,40.9348579,9.1754471
+Lurate Caccivio,45.7645831,8.991472416350707
+Lusciano,40.970012,14.190427
+Luserna,45.9216649,11.3242901
+Luserna San Giovanni,44.815437,7.251318
+Lusernetta,44.803137,7.246718
+Lusevera,46.275828,13.269325
+Lusia,45.1005351,11.6627796
+Plodio,44.3511944,8.2564515
+Pocapaglia,44.715241,7.882933
+Pocenia,45.835515,13.100829
+Podenzana,44.206248,9.941986
+Podenzano,44.956363,9.684967
+Pofi,41.5652745,13.4155324
+Poggiardo,40.054223,18.379132
+Poggibonsi,43.4677215,11.148762
+Poggio a Caiano,43.8160891,11.0546502
+Poggio Bustone,42.501834,12.888178
+Poggio Catino,42.2949988,12.6919216
+Poggio Imperiale,41.8233236,15.3654175
+Poggio Mirteto,42.2655187,12.6873028
+Poggio Moiano,42.202627,12.879382
+Poggio Nativo,42.215427,12.79658
+Poggio Picenze,42.3206357,13.5410869
+Poggio Renatico,44.765974,11.490111
+Poggio Rusco,44.9755577,11.1146492
+Poggio San Lorenzo,42.252428,12.84418
+Poggio San Marcello,43.511158,13.073667
+Poggio San Vicino,43.375155,13.079069
+Poggio Sannita,41.7788339,14.4141996
+Poggio Torriana,43.9998476,12.3926599
+Poggiodomo,42.711239,12.933876
+Poggiofiorito,42.25494,14.322313
+Poggiomarino,40.803111,14.539037
+Poggioreale,37.7620964,13.0343176
+Poggiorsini,40.917126,16.254774
+Poggiridenti,46.1756616,9.9262461
+Pogliano Milanese,45.5373018,8.991631
+Pognana Lario,45.88193395,9.164583544143005
+Pognano,45.586378,9.639955
+Pogno,45.7590389,8.3834264
+Poirino,44.920845,7.846928
+Pojana Maggiore,45.2913812,11.5013468
+Polaveno,45.661588,10.123909
+Polcenigo,46.0306995,12.5016263
+Polesella,44.9640818,11.7501773
+Polesine Zibello,45.0108093,10.0987126
+Poli,41.8873266,12.8931264
+Polia,38.7508396,16.3115087
+Policoro,40.2104595,16.6763759
+Polignano a Mare,40.9961185,17.2195857
+Polinago,44.344758,10.723501
+Polino,42.5848236,12.8428018
+Polistena,38.4065094,16.0774549
+Polizzi Generosa,37.8128186,13.9996828
+Polla,40.517112,15.497962
+Pollein,45.7279673,7.3522207
+Pollena Trocchia,40.8548665,14.3793887
+Pollenza,43.2677749,13.3477918
+Pollica,40.190702,15.057156
+Pollina,37.992894,14.1457994
+Pollone,45.579763,8.005919
+Pollutri,42.137839,14.591721
+Polonghera,44.8043206,7.5963116
+Polpenazze del Garda,45.551185,10.504875
+Polverara,45.309392,11.956012
+Polverigi,43.525561,13.392073
+Pomarance,43.2992367,10.8724009
+Pomaretto,44.9559831,7.1827794
+Pomarico,40.5179442,16.5459445
+Pomaro Monferrato,45.0629153,8.5947428
+Pomarolo,45.928099,11.04308
+Pombia,45.65083,8.6322926
+Pomezia,41.667529,12.5047863
+Pomigliano d'Arco,40.907912,14.386233
+Pompei,40.7491267,14.5006415
+Pompeiana,43.853721,7.889848
+Pompiano,45.431977,9.989265
+Pomponesco,44.9287557,10.591879
+Pompu,39.724544,8.795432
+Poncarale,45.4606628,10.1739092
+Ponderano,45.538462,8.055921
+Ponna,45.99565405,9.110842634975086
+Ponsacco,43.6207132,10.6308287
+Ponso,45.1950567,11.588255
+Pont-Canavese,45.4205265,7.5968553
+Pont-Saint-Martin,45.5994401,7.7994375
+Pontassieve,43.7738313,11.4346286
+Pontboset,45.6076138,7.686379
+Ponte,41.214732,14.6963272
+Ponte Buggianese,43.8409347,10.7475475
+Ponte dell'Olio,44.867361,9.642268
+Ponte di Legno,46.258603,10.508662
+Ponte di Piave,45.7161533,12.4652271
+Ponte Gardena,46.5982585,11.5318969
+Ponte in Valtellina,46.174996,9.977851
+Ponte Lambro,45.82658,9.225441
+Ponte nelle Alpi,46.1617797,12.2988054
+Ponte Nizza,44.851548,9.0972428
+Ponte Nossa,45.8660616,9.8829739
+Ponte San Nicolò,45.3652389,11.9372704
+Ponte San Pietro,45.6977541,9.5872254
+Pontebba,46.5065309,13.3064259
+Pontecagnano Faiano,40.6409045,14.8818819
+Pontecchio Polesine,45.0191111,11.8119258
+Pontechianale,44.6226455,7.0299804
+Pontecorvo,41.461618,13.666709
+Pontecurone,44.9604747,8.9336093
+Pontedassio,43.940324,8.01385
+Pontedera,43.6634536,10.6354851
+Pontelandolfo,41.2871143,14.6922875
+Pontelatone,41.193517,14.251726
+Pontelongo,45.2454887,12.0251829
+Pontenure,44.9992666,9.7884285
+Ponteranica,45.7320767,9.651987
+Pontestura,45.1432839,8.3334246
+Pontevico,45.274374,10.092471
+Pontey,45.7388888,7.5851183
+Ponti,44.6274764,8.3653896
+Ponti sul Mincio,45.4125151,10.6872208
+Pontida,45.7323112,9.4986417
+Pontinia,41.4084557,13.0443366
+Pontinvrea,44.4446264,8.43446
+Pontirolo Nuovo,45.5691748,9.5693448
+Pontoglio,45.56938,9.85346
+Pontremoli,44.375151,9.878882
+Ponza,40.8932368,12.9630622
+Ponzano di Fermo,43.1010773,13.6567808
+Ponzano Monferrato,45.084853,8.265534
+Ponzano Romano,42.2577967,12.5716266
+Ponzano Veneto,45.723851,12.194218
+Ponzone,44.5881853,8.458654
+Popoli,42.1713106,13.832817
+Poppi,43.7227596,11.7660695
+Porano,42.6817096,12.1020615
+Porcari,43.8401177,10.6164074
+Porcia,45.946555,12.601780874786431
+Pordenone,45.9562503,12.6597197
+Porlezza,46.0360715,9.1183915
+Pornassio,44.0698777,7.8712894
+Porpetto,45.8581744,13.2178534
+Portacomaro,44.9574054,8.258145
+Portalbera,45.097563,9.318857
+Porte,44.8872933,7.2679711
+Porte di Rendena,46.0732373,10.6730978
+Portici,40.8189733,14.3387454
+Portico di Caserta,41.056514,14.279428
+Portico e San Benedetto,43.9968881,11.7150838
+Portigliola,38.227673,16.202204
+Porto Azzurro,42.7662978,10.3957529
+Porto Ceresio,45.9027835,8.90423
+Porto Cesareo,40.262824,17.898418
+Porto Empedocle,37.2883127,13.52755
+Porto Mantovano,45.1925255,10.755220681433189
+Porto Recanati,43.4350815,13.6630083
+Porto San Giorgio,43.1826562,13.7933863
+Porto Sant'Elpidio,43.2586872,13.7584226
+Porto Tolle,44.9177128,12.4021857
+Porto Torres,40.8370333,8.4013292
+Porto Valtravaglia,45.9613696,8.6818093
+Porto Viro,45.0253113,12.2252372
+Portobuffolè,45.853838,12.5383367
+Portocannone,41.9150353,15.0091974
+Portoferraio,42.8136276,10.319152
+Portofino,44.3036653,9.2093446
+Portogruaro,45.775598,12.8374571
+Portomaggiore,44.6992584,11.804078
+Portopalo di Capo Passero,36.6838453,15.1332904
+Portoscuso,39.207031,8.380931
+Portovenere,44.0506605,9.8344585
+Portula,45.6752832,8.1793651
+Posada,40.631969,9.716437
+Posina,45.7910878,11.2625174
+Positano,40.6286581,14.4854955
+Possagno,45.854879,11.8815695
+Posta,42.5235514,13.0960137
+Posta Fibreno,41.690323,13.697407
+Postal,46.6075829,11.1933244
+Postalesio,46.174094,9.775447
+Postiglione,40.559011,15.232356
+Postua,45.7136037,8.2305899
+Potenza,40.51731195,15.821608824871046
+Potenza Picena,43.366409,13.620695
+Pove del Grappa,45.7991169,11.7291016
+Povegliano,45.7591925,12.2085003
+Povegliano Veronese,45.3483978,10.8824376
+Poviglio,44.8416698,10.541615
+Povoletto,46.1181791,13.2987971
+Pozzaglia Sabina,42.1587709,12.9648326
+Pozzaglio ed Uniti,45.21101575,10.046200206213149
+Pozzallo,36.7265294,14.8465811
+Pozzilli,41.511422,14.062517
+Pozzo d'Adda,45.5756656,9.5003771
+Pozzol Groppo,44.878055,9.029854
+Pozzolengo,45.4059696,10.6313729
+Pozzoleone,45.6489562,11.6790903
+Pozzolo Formigaro,44.7951536,8.7848493
+Pozzomaggiore,40.398756,8.660219
+Pozzonovo,45.1965968,11.7926503
+Pozzuoli,40.822643,14.1219109
+Pozzuolo del Friuli,45.986019,13.195029
+Pozzuolo Martesana,45.513975,9.456252
+Pradalunga,45.7467328,9.7831294
+Pradamano,46.033822,13.30263
+Pradleves,44.4183463,7.2806993
+Pragelato,45.0162171,6.9424531
+Praia a Mare,39.900902,15.779276
+Praiano,40.611107,14.53134
+Pralboino,45.2679989,10.2174131
+Prali,44.88107345,7.05243906201571
+Pralormo,44.859744,7.901431
+Pralungo,45.5921482,8.0379244
+Pramaggiore,45.8145654,12.7388127
+Pramollo,44.904484,7.2114001
+Prarolo,45.2822927,8.4781176
+Prarostino,44.8657923,7.2682233
+Prasco,44.639829,8.5529994
+Prascorsano,45.367754,7.616915
+Prata Camportaccio,46.307194,9.395236
+Prata d'Ansidonia,42.2778184,13.6089721
+Prata di Pordenone,45.8933112,12.5962937
+Prata di Principato Ultra,40.985973,14.8375141
+Prata Sannita,41.432821,14.202722
+Pratella,41.4058248,14.1780969
+Pratiglione,45.352753,7.596015
+Prato,43.935718050000006,11.09414726770089
+Prato allo Stelvio,46.60376725,10.581909344023622
+Prato Carnico,46.520705,12.8093611
+Prato Sesia,45.6468486,8.3729394
+Pratola Peligna,42.098314,13.8739802
+Pratola Serra,40.987017,14.852642
+Pratovecchio Stia,43.8220391,11.6992912
+Pravisdomini,45.8189094,12.6944247
+Pray,45.6761963,8.2087139
+Prazzo,44.4828984,7.0553955
+Pré-Saint-Didier,45.7639422,6.9853467
+Precenicco,45.788913,13.077429
+Preci,42.8792351,13.0387461
+Predaia,46.335273,11.0897004
+Predappio,44.1022154,11.9816196
+Predazzo,46.3123614,11.6026938
+Predoi,47.0407407,12.1058909
+Predore,45.680784,10.014361
+Predosa,44.7526366,8.6583243
+Preganziol,45.6025304,12.2353136
+Pregnana Milanese,45.5158489,9.0080123
+Prelà,43.9263186,7.9364801
+Premana,46.05173,9.423463
+Premariacco,46.0606866,13.3947783
+Premeno,45.9780992,8.5960998
+Premia,46.2681442,8.339
+Premilcuore,43.9759077,11.7775267
+Premolo,45.870187,9.874655
+Premosello-Chiovenda,46.0039555,8.3275904
+Preone,46.3936842,12.8662013
+Torre Beretti e Castellaro,45.07561425,8.690527641754109
+Torre Boldone,45.7162722,9.7081894
+Torre Bormida,44.56274,8.154441
+Torre Cajetani,41.7877197,13.2672973
+Torre Canavese,45.392056,7.759818
+Torre d'Arese,45.2426037,9.3172552
+Torre d'Isola,45.2183509,9.0764193
+Torre de' Busi,45.7745656,9.480377
+Torre de' Negri,45.149665,9.334556
+Torre de' Passeri,42.2445594,13.9278112
+Torre de' Picenardi,45.143573,10.286877
+Torre de' Roveri,45.7008221,9.7735143
+Torre del Greco,40.7879211,14.3682813
+Torre di Mosto,45.6905428,12.7104204
+Torre di Ruggiero,38.653382,16.372803
+Torre di Santa Maria,46.2335291,9.851604
+Torre Le Nocelle,41.023118,14.909343
+Torre Mondovì,44.352832,7.89964
+Torre Orsaia,40.133304,15.473266
+Torre Pallavicina,45.4470628,9.869246091628131
+Torre Pellice,44.8207682,7.2237145
+Polia,38.7508396,16.3115087
+Policoro,40.2104595,16.6763759
+Polignano a Mare,40.9961185,17.2195857
+Polinago,44.344758,10.723501
+Polino,42.5848236,12.8428018
+Polistena,38.4065094,16.0774549
+Polizzi Generosa,37.8128186,13.9996828
+Polla,40.517112,15.497962
+Pollein,45.7279673,7.3522207
+Pollena Trocchia,40.8548665,14.3793887
+Pollenza,43.2677749,13.3477918
+Pollica,40.190702,15.057156
+Pollina,37.992894,14.1457994
+Pollone,45.579763,8.005919
+Pollutri,42.137839,14.591721
+Polonghera,44.8043206,7.5963116
+Polpenazze del Garda,45.551185,10.504875
+Polverara,45.309392,11.956012
+Polverigi,43.525561,13.392073
+Pomarance,43.2992367,10.8724009
+Pomaretto,44.9559831,7.1827794
+Pomarico,40.5179442,16.5459445
+Pomaro Monferrato,45.0629153,8.5947428
+Pomarolo,45.928099,11.04308
+Pombia,45.65083,8.6322926
+Pomezia,41.667529,12.5047863
+Pomigliano d'Arco,40.907912,14.386233
+Pompei,40.7491267,14.5006415
+Pompeiana,43.853721,7.889848
+Pompiano,45.431977,9.989265
+Pomponesco,44.9287557,10.591879
+Pompu,39.724544,8.795432
+Poncarale,45.4606628,10.1739092
+Ponderano,45.538462,8.055921
+Ponna,45.99565405,9.110842634975086
+Ponsacco,43.6207132,10.6308287
+Ponso,45.1950567,11.588255
+Pont-Canavese,45.4205265,7.5968553
+Pont-Saint-Martin,45.5994401,7.7994375
+Pontassieve,43.7738313,11.4346286
+Pontboset,45.6076138,7.686379
+Ponte,41.214732,14.6963272
+Ponte Buggianese,43.8409347,10.7475475
+Ponte dell'Olio,44.867361,9.642268
+Ponte di Legno,46.258603,10.508662
+Ponte di Piave,45.7161533,12.4652271
+Ponte Gardena,46.5982585,11.5318969
+Ponte in Valtellina,46.174996,9.977851
+Ponte Lambro,45.82658,9.225441
+Ponte nelle Alpi,46.1617797,12.2988054
+Ponte Nizza,44.851548,9.0972428
+Ponte Nossa,45.8660616,9.8829739
+Ponte San Nicolò,45.3652389,11.9372704
+Ponte San Pietro,45.6977541,9.5872254
+Pontebba,46.5065309,13.3064259
+Pontecagnano Faiano,40.6409045,14.8818819
+Pontecchio Polesine,45.0191111,11.8119258
+Pontechianale,44.6226455,7.0299804
+Pontecorvo,41.461618,13.666709
+Pontecurone,44.9604747,8.9336093
+Pontedassio,43.940324,8.01385
+Pontedera,43.6634536,10.6354851
+Pontelandolfo,41.2871143,14.6922875
+Pontelatone,41.193517,14.251726
+Pontelongo,45.2454887,12.0251829
+Pontenure,44.9992666,9.7884285
+Ponteranica,45.7320767,9.651987
+Pontestura,45.1432839,8.3334246
+Pontevico,45.274374,10.092471
+Pontey,45.7388888,7.5851183
+Ponti,44.6274764,8.3653896
+Ponti sul Mincio,45.4125151,10.6872208
+Pontida,45.7323112,9.4986417
+Pontinia,41.4084557,13.0443366
+Pontinvrea,44.4446264,8.43446
+Pontirolo Nuovo,45.5691748,9.5693448
+Pontoglio,45.56938,9.85346
+Pontremoli,44.375151,9.878882
+Ponza,40.8932368,12.9630622
+Ponzano di Fermo,43.1010773,13.6567808
+Ponzano Monferrato,45.084853,8.265534
+Ponzano Romano,42.2577967,12.5716266
+Ponzano Veneto,45.723851,12.194218
+Ponzone,44.5881853,8.458654
+Popoli,42.1713106,13.832817
+Poppi,43.7227596,11.7660695
+Porano,42.6817096,12.1020615
+Porcari,43.8401177,10.6164074
+Porcia,45.946555000000004,12.601780874786431
+Pordenone,45.9562503,12.6597197
+Porlezza,46.0360715,9.1183915
+Pornassio,44.0698777,7.8712894
+Porpetto,45.8581744,13.2178534
+Portacomaro,44.9574054,8.258145
+Portalbera,45.097563,9.318857
+Porte,44.8872933,7.2679711
+Porte di Rendena,46.0732373,10.6730978
+Portici,40.8189733,14.3387454
+Portico di Caserta,41.056514,14.279428
+Portico e San Benedetto,43.9968881,11.7150838
+Portigliola,38.227673,16.202204
+Porto Azzurro,42.7662978,10.3957529
+Porto Ceresio,45.9027835,8.90423
+Porto Cesareo,40.262824,17.898418
+Porto Empedocle,37.2883127,13.52755
+Porto Mantovano,45.1925255,10.755220681433187
+Porto Recanati,43.4350815,13.6630083
+Porto San Giorgio,43.1826562,13.7933863
+Porto Sant'Elpidio,43.2586872,13.7584226
+Porto Tolle,44.9177128,12.4021857
+Porto Torres,40.8370333,8.4013292
+Porto Valtravaglia,45.9613696,8.6818093
+Porto Viro,45.0253113,12.2252372
+Portobuffolè,45.853838,12.5383367
+Portocannone,41.9150353,15.0091974
+Portoferraio,42.8136276,10.319152
+Portofino,44.3036653,9.2093446
+Portogruaro,45.775598,12.8374571
+Portomaggiore,44.6992584,11.804078
+Portopalo di Capo Passero,36.6838453,15.1332904
+Portoscuso,39.207031,8.380931
+Portovenere,44.0506605,9.8344585
+Portula,45.6752832,8.1793651
+Posada,40.631969,9.716437
+Posina,45.7910878,11.2625174
+Positano,40.6286581,14.4854955
+Possagno,45.854879,11.8815695
+Posta,42.5235514,13.0960137
+Posta Fibreno,41.690323,13.697407
+Postal,46.6075829,11.1933244
+Postalesio,46.174094,9.775447
+Postiglione,40.559011,15.232356
+Postua,45.7136037,8.2305899
+Potenza,40.51731195,15.821608824871046
+Potenza Picena,43.366409,13.620695
+Pove del Grappa,45.7991169,11.7291016
+Povegliano,45.7591925,12.2085003
+Povegliano Veronese,45.3483978,10.8824376
+Poviglio,44.8416698,10.541615
+Povoletto,46.1181791,13.2987971
+Pozzaglia Sabina,42.1587709,12.9648326
+Pozzaglio ed Uniti,45.21101575,10.046200206213147
+Pozzallo,36.7265294,14.8465811
+Pozzilli,41.511422,14.062517
+Pozzo d'Adda,45.5756656,9.5003771
+Pozzol Groppo,44.878055,9.029854
+Pozzolengo,45.4059696,10.6313729
+Pozzoleone,45.6489562,11.6790903
+Pozzolo Formigaro,44.7951536,8.7848493
+Pozzomaggiore,40.398756,8.660219
+Pozzonovo,45.1965968,11.7926503
+Pozzuoli,40.822643,14.1219109
+Pozzuolo del Friuli,45.986019,13.195029
+Pozzuolo Martesana,45.513975,9.456252
+Pradalunga,45.7467328,9.7831294
+Pradamano,46.033822,13.30263
+Pradleves,44.4183463,7.2806993
+Pragelato,45.0162171,6.9424531
+Praia a Mare,39.900902,15.779276
+Praiano,40.611107,14.53134
+Pralboino,45.2679989,10.2174131
+Prali,44.88107345,7.05243906201571
+Pralormo,44.859744,7.901431
+Pralungo,45.5921482,8.0379244
+Pramaggiore,45.8145654,12.7388127
+Pramollo,44.904484,7.2114001
+Prarolo,45.2822927,8.4781176
+Prarostino,44.8657923,7.2682233
+Prasco,44.639829,8.5529994
+Prascorsano,45.367754,7.616915
+Prata Camportaccio,46.307194,9.395236
+Prata d'Ansidonia,42.2778184,13.6089721
+Prata di Pordenone,45.8933112,12.5962937
+Prata di Principato Ultra,40.985973,14.8375141
+Prata Sannita,41.432821,14.202722
+Pratella,41.4058248,14.1780969
+Pratiglione,45.352753,7.596015
+Prato,43.935718050000006,11.09414726770089
+Prato allo Stelvio,46.603767250000004,10.581909344023622
+Prato Carnico,46.520705,12.8093611
+Prato Sesia,45.6468486,8.3729394
+Pratola Peligna,42.098314,13.8739802
+Pratola Serra,40.987017,14.852642
+Pratovecchio Stia,43.8220391,11.6992912
+Pravisdomini,45.8189094,12.6944247
+Pray,45.6761963,8.2087139
+Prazzo,44.4828984,7.0553955
+Pré-Saint-Didier,45.7639422,6.9853467
+Precenicco,45.788913,13.077429
+Preci,42.8792351,13.0387461
+Predaia,46.335273,11.0897004
+Predappio,44.1022154,11.9816196
+Predazzo,46.3123614,11.6026938
+Predoi,47.0407407,12.1058909
+Predore,45.680784,10.014361
+Predosa,44.7526366,8.6583243
+Preganziol,45.6025304,12.2353136
+Pregnana Milanese,45.5158489,9.0080123
+Prelà,43.9263186,7.9364801
+Premana,46.05173,9.423463
+Premariacco,46.0606866,13.3947783
+Premeno,45.9780992,8.5960998
+Premia,46.2681442,8.339
+Premilcuore,43.9759077,11.7775267
+Premolo,45.870187,9.874655
+Premosello-Chiovenda,46.0039555,8.3275904
+Preone,46.3936842,12.8662013
+Torre Beretti e Castellaro,45.07561425,8.690527641754109
+Torre Boldone,45.7162722,9.7081894
+Torre Bormida,44.56274,8.154441
+Torre Cajetani,41.7877197,13.2672973
+Torre Canavese,45.392056,7.759818
+Torre d'Arese,45.2426037,9.3172552
+Torre d'Isola,45.2183509,9.0764193
+Torre de' Busi,45.7745656,9.480377
+Torre de' Negri,45.149665,9.334556
+Torre de' Passeri,42.2445594,13.9278112
+Torre de' Picenardi,45.143573,10.286877
+Torre de' Roveri,45.7008221,9.7735143
+Torre del Greco,40.7879211,14.3682813
+Torre di Mosto,45.6905428,12.7104204
+Torre di Ruggiero,38.653382,16.372803
+Torre di Santa Maria,46.2335291,9.851604
+Torre Le Nocelle,41.023118,14.909343
+Torre Mondovì,44.352832,7.89964
+Torre Orsaia,40.133304,15.473266
+Torre Pallavicina,45.4470628,9.869246091628131
+Torre Pellice,44.8207682,7.2237145
+Doues,45.8193912,7.3065823
+Dovadola,44.1225739,11.888255
+Dovera,45.3651533,9.5416879
+Dozza,44.3593911,11.6288788
+Dragoni,41.2702398,14.3097725
+Drapia,38.6645238,15.9103631
+Drena,45.969299,10.944477
+Drenchia,46.174173350000004,13.636537376557973
+Dresano,45.3729705,9.3606419
+Drizzona,45.142174,10.350279
+Dro,45.961471,10.9111105
+Dronero,44.4659423,7.3672557
+Druento,45.1344531,7.5764559
+Druogno,46.1351172,8.4342016
+Dualchi,40.228855,8.896427
+Dubino,46.15342,9.4613327
+Due Carrare,45.2905049,11.8217529
+Dueville,45.6355174,11.5485978
+Dugenta,41.132217,14.452431
+Duino Aurisina,45.7703815,13.675293129019462
+Dumenza,46.0191641,8.7871203
+Duno,45.9142022,8.7378781
+Durazzano,41.0624811,14.4474777
+Duronia,41.658928,14.458424
+Dusino San Michele,44.9254929,7.9721895
+Eboli,40.6175146,15.0569438
+Edolo,46.1793752,10.3307572
+Egna,46.3169161,11.2725698
+Elice,42.5182752,13.9682818
+Elini,39.8999005,9.531347
+Ello,45.78568,9.365345
+Elmas,39.2680862,9.0496306
+Elva,44.5405393,7.0904585
+Emarèse,45.7233681,7.7006507104171344
+Empoli,43.7194884,10.9458556
+Endine Gaiano,45.792486,9.969058
+Enego,45.9404927,11.7096122
+Enemonzo,46.4109017,12.8787158
+Enna,37.5667573,14.2807473
+Entracque,44.241425,7.399331
+Entratico,45.7056148,9.8746256
+Envie,44.682235,7.371123
+Episcopia,40.074807,16.098181
+Eraclea,45.5762676,12.6729111
+Erba,45.8097196,9.2166985
+Erbè,45.2409293,10.9684847
+Erbezzo,45.6400226,11.001577
+Erbusco,45.5984995,9.9722164
+Erchie,40.4360421,17.7346286
+Ercolano,40.8053613,14.347103624843179
+Erice,38.0382301,12.5871823
+Erli,44.137529,8.103148
+Erto e Casso,46.27709185,12.35955523234766
+Erula,40.791166,8.942219
+Erve,45.821582,9.452846
+Esanatoglia,43.252208,12.9478268
+Escalaplano,39.626647,9.357144
+Escolca,39.698446,9.121539
+Esine,45.9258392,10.2508308
+Esino Lario,45.9939388,9.3332004
+Esperia,41.3839494,13.6806101
+Esporlatu,40.3866072,8.9897133
+Este,45.2240069,11.659796
+Esterzili,39.779149,9.284741
+Etroubles,45.8205823,7.230574
+Eupilio,45.8182246,9.2646735
+Exilles,45.0973834,6.9290646
+Fabbrica Curone,44.784954,9.147559
+Fabbriche di Vergemoli,44.0148355,10.3910521
+Fabbrico,44.8720906,10.8100618
+Fabriano,43.3358407,12.9046187
+Fabrica di Roma,42.335126,12.299767
+Fabrizia,38.487078,16.301003
+Fabro,42.8634804,12.0128824
+Faedis,46.150325,13.346429
+Faedo,46.1922976,11.1618628
+Faedo Valtellino,46.152995,9.90605
+Faenza,44.2855555,11.8832055
+Faeto,41.325426,15.159844
+Fagagna,46.1134401,13.0845716
+Faggeto Lario,45.8580786,9.170904424243695
+Faggiano,41.1096747,14.5217599
+Fagnano Alto,42.2541805,13.5974586
+Fagnano Castello,39.565697,16.0536725
+Fagnano Olona,45.6689478,8.8727714
+Fai della Paganella,46.1793313,11.0689304
+Faicchio,41.2780306,14.4787446
+Falcade,46.3581276,11.8721031
+Falciano del Massico,41.165122,13.9494528
+Falconara Albanese,39.275892,16.09179
+Falconara Marittima,43.6293969,13.3966763
+Falcone,38.1174821,15.0796108
+Faleria,42.2261788,12.4431811
+Falerna,39.002487,16.170695
+Falerone,43.107052,13.471682
+Fallo,41.938333,14.323617
+Falmenta,46.0728808,8.5918986
+Faloppio,45.80889055,8.971172866090171
+Falvaterra,41.505118,13.523806
+Falzes,46.8119803,11.8840064
+Fanano,44.2077372,10.7938365
+Fanna,46.1871178,12.7530826
+Fano,43.8424173,13.0146632
+Fano Adriano,42.5521311,13.5379617
+Fara Filiorum Petri,42.2486966,14.1859179
+Fara Gera d'Adda,45.555676,9.537853
+Fara in Sabina,42.20949,12.7293473
+Fara Novarese,45.5551594,8.4589412
+Fara Olivana con Sola,45.49172015,9.737362446324912
+Fara San Martino,42.0898152,14.2053326
+Fara Vicentino,45.7395927,11.5482872
+Fardella,40.113809,16.169782
+Farigliano,44.5120312,7.914245
+Farindola,42.4411465,13.8234374
+Farini,44.7128373,9.5692864
+Farnese,42.549426,11.725652
+Farra d'Isonzo,45.90802,13.5165379
+Farra di Soligo,45.9053812,12.1254301
+Fasano,40.834432,17.358399
+Fascia,44.5719677,9.2356396
+Fauglia,43.570638,10.514409
+Faule,44.8056734,7.5805033
+Favale di Malvaro,44.4529968,9.2595603
+Favara,37.3161967,13.6624175
+Favignana,37.9314018,12.3274291
+Favria,45.331154,7.690617
+Feisoglio,44.543739,8.104941
+Feletto,45.303853,7.744719
+Felino,44.6965871,10.2372047
+Felitto,40.373507,15.243058
+Felizzano,44.8999639,8.4362123
+Feltre,46.0163755,11.9062541
+Fenegrò,45.7007039,8.998617
+Fenestrelle,45.0360951,7.0495615
+Fénis,45.7360127,7.4943705
+Ferentillo,42.6207678,12.7887263
+Ferentino,41.692932,13.2534215
+Ferla,37.1185821,14.9411382
+Fermignano,43.6767577,12.6453734
+Fermo,43.0922489,13.638768067263769
+Ferno,45.6141475,8.7545482
+Feroleto Antico,38.9610947,16.3883274
+Feroleto della Chiesa,38.465776,16.064198
+Ferrandina,40.501218,16.454683
+Ferrara,44.766764249999994,11.827938995640167
+Ferrara di Monte Baldo,45.6769155,10.8543397
+Ferrazzano,41.5309467,14.6710473
+Ferrera di Varese,45.9345252,8.7858239
+Ferrera Erbognone,45.115059,8.864347
+Ferrere,44.875446,7.994732
+Ferriere,44.6441441,9.4974568
+Ferruzzano,38.0355167,16.0912647
+Fiamignano,42.2650331,13.1263626
+Fiano,45.2168706,7.5226852
+Fiano Romano,42.1719129,12.5927265
+Fiastra,43.0361407,13.1554547
+Fiavè,46.0045798,10.8420518
+Ficarazzi,38.0884578,13.4637863
+Ficarolo,44.9537986,11.4357293
+Ficarra,38.109061,14.828976
+Ficulle,42.8362745,12.0656093
+Fidenza,44.866522,10.0611939
+Fiè allo Sciliar,46.5177697,11.5027759
+Fierozzo,46.1080873,11.3463101
+Fiesco,45.3363613,9.7776099
+Fiesole,43.8066689,11.2930735
+Fiesse,45.231475,10.324177
+Fiesso d'Artico,45.417348,12.0331806
+Fiesso Umbertiano,44.9611843,11.6046419
+Figino Serenza,45.7097797,9.1289394
+Figline e Incisa Valdarno,43.6307949,11.4629459
+Figline Vegliaturo,39.225192,16.330296
+Filacciano,42.254826,12.597675
+Filadelfia,38.7838211,16.2912123
+Filago,45.637578,9.556352
+Filandari,38.61956525,16.032063666497855
+Filattiera,44.3307913,9.934823
+Filettino,41.891424,13.327496
+Filetto,42.2282241,14.2450948
+Filiano,40.8318792,15.7162915
+Filighera,45.177065,9.315955
+Filignano,41.545332,14.0561754
+Filogaso,38.6803711,16.2303177
+Filottrano,43.436659,13.354474
+Finale Emilia,44.834574,11.293905
+Finale Ligure,44.1689049,8.3436524
+Fino del Monte,45.8903679,9.9926194
+Fino Mornasco,45.742876,9.047639
+Fiorano al Serio,45.7998409,9.8422937
+Fiorano Canavese,45.467758,7.833718
+Fiorano Modenese,44.539143,10.8118482
+Fiorenzuola d'Arda,44.9280841,9.9107218
+Firenze,43.7697955,11.2556404
+Firenzuola,44.1190791,11.3792271
+Firmo,39.721401,16.170186
+Fiscaglia,44.7941326,12.029515
+Fisciano,40.772812,14.799443
+Fiuggi,41.7985608,13.2204887
+Fiumalbo,44.1799513,10.6477331
+Fiumara,38.212669,15.693693
+Fiume Veneto,45.9279427,12.7321755
+Fiumedinisi,38.0262382,15.3820835
+Fiumefreddo Bruzio,39.2347925,16.0671836
+Fiumefreddo di Sicilia,37.7923548,15.2069456
+Fiumicello Villa Vicentina,45.7836083,13.413018658333332
+Fiumicino,41.7712145,12.2278855
+Limina,37.9407737,15.2726676
+Limone Piemonte,44.202726,7.576336
+Limone sul Garda,45.8141194,10.7915786
+Limosano,41.67633,14.622428
+Linarolo,45.1609808,9.2709102
+Linguaglossa,37.8409138,15.1437161
+Lioni,40.876517,15.187751
+Lipari,38.4681846,14.9547202
+Lipomo,45.7945033,9.1216456
+Lirio,44.993982,9.255568
+Liscate,45.4815487,9.4090115
+Liscia,41.955235,14.555322
+Lisciano Niccone,43.246844,12.14305
+Lisio,44.307132,7.978742
+Lissone,45.6107705,9.2408409
+Liveri,38.1234806,15.0608492
+Livigno,46.5381734,10.1359928
+Livinallongo del Col di Lana,46.5066339,11.9368121
+Livo,46.404711,11.019271
+Livo,46.404711,11.019271
+Livorno,42.790216599999994,10.340278678735025
+Livorno Ferraris,45.2814818,8.0821574
+Livraga,45.192268,9.54646
+Lizzanello,40.304127,18.222525
+Lizzano,40.391023,17.447607
+Lizzano in Belvedere,44.1618295,10.8940436
+Loano,44.1287537,8.2593713
+Loazzolo,44.669043,8.258442
+Locana,45.4176538,7.4588144
+Locate di Triulzi,45.3579318,9.2246411
+Locate Varesino,45.6888509,8.9306787
+Locatello,45.8345021,9.5332605
+Loceri,39.8566346,9.5822088
+Locorotondo,40.78696905,17.298052515685676
+Locri,38.2385368,16.2655092
+Loculi,40.4072775,9.6111604
+Lodè,40.5913866,9.5397954
+Lodi,45.2613104,9.491678060021837
+Lodi Vecchio,45.301075,9.4165986
+Lodine,40.1480795,9.2182943
+Lodrino,45.719687,10.277667
+Lograto,45.4842379,10.0532758
+Loiano,44.26833,11.3234319
+Loiri Porto San Paolo,40.8763052,9.6294901
+Lomagna,45.667978,9.376047
+Lomazzo,45.6984514,9.0363529
+Lombardore,45.2352282,7.7365518
+Lombriasco,44.840941,7.635925
+Lomello,45.121059,8.796245
+Lona-Lases,46.1498177,11.2191675
+Lonate Ceppino,45.7045034,8.8742864
+Lonate Pozzolo,45.5967722,8.7547313
+Lonato del Garda,45.4610389,10.4845346
+Londa,43.8605674,11.5668116
+Longano,41.521623,14.245621
+Longare,45.4746344,11.6110489
+Longarone,46.265786,12.2999366
+Longhena,45.437678,10.059667
+Longi,38.0272713,14.752656
+Longiano,44.0743778,12.3274733
+Longobardi,39.20709,16.07649
+Longobucco,39.448299,16.610499
+Longone al Segrino,45.819244,9.2504238
+Longone Sabino,42.27313,12.967383
+Lonigo,45.3881155,11.38799
+Loranzè,45.441657,7.812718
+Loreggia,45.594524,11.9446117
+Loreglia,45.9065807,8.3711904
+Lorenzago di Cadore,46.479626,12.459403
+Loreo,45.0619946,12.1889247
+Loreto,43.439498,13.6070214
+Loreto Aprutino,42.434634,13.9832322
+Loria,45.7284237,11.8655848
+Loro Ciuffenna,43.5922862,11.6330068
+Loro Piceno,43.1661204,13.4164033
+Lorsica,44.445276,9.2843109
+Losine,45.983494,10.316163
+Lotzorai,39.9691548,9.6637148
+Lovere,45.8168815,10.0752136
+Lovero,46.2314,10.228556
+Lozio,45.9861029,10.2603604
+Lozza,45.775675,8.857734
+Lozzo Atestino,45.2909178,11.6304106
+Lozzo di Cadore,46.4845717,12.4433413
+Lozzolo,45.6256427,8.3217739
+Lu,44.017763900000006,10.454430026192636
+Lubriano,42.636231,12.108759
+Lucca,44.017763900000006,10.454430026192636
+Lucca Sicula,37.5790488,13.3065678
+Lucera,41.5082727,15.3376465
+Lucignano,43.2744629,11.7459997
+Lucinasco,43.9680214,7.9639801
+Lucito,41.731931,14.687228
+Luco dei Marsi,41.957027,13.473598
+Lucoli,42.2515538,13.3768818
+Lugagnano Val d'Arda,44.821994,9.8284819
+Lugnacco,45.445057,7.782117
+Lugnano in Teverina,42.5742259,12.3307848
+Lugo,44.4202951,11.911365
+Lugo di Vicenza,45.7529864,11.5233854
+Luino,45.9989084,8.739907
+Luisago,45.762877,9.035438
+Lula,40.470364,9.486435
+Lumarzo,44.4528876,9.1326199
+Lumezzane,45.6482576,10.2645464
+Lunamatrona,39.650544,8.899335
+Lunano,43.7304752,12.4414172
+Lungavilla,45.04066,9.081353
+Lungro,39.7422654,16.1228246
+Luni,44.0778272,10.030189
+Luogosano,40.985631,14.9919563
+Luogosanto,41.0546565,9.20409
+Lupara,41.7627311,14.7330086
+Lurago d'Erba,45.7470528,9.2145019
+Lurago Marinone,45.705775,8.981338
+Lurano,45.565677,9.640155
+Luras,40.9348579,9.1754471
+Lurate Caccivio,45.764583099999996,8.991472416350707
+Lusciano,40.970012,14.190427
+Luserna,45.9216649,11.3242901
+Luserna San Giovanni,44.815437,7.251318
+Lusernetta,44.803137,7.246718
+Lusevera,46.275828,13.269325
+Lusia,45.1005351,11.6627796
+Plodio,44.3511944,8.2564515
+Pocapaglia,44.715241,7.882933
+Pocenia,45.835515,13.100829
+Podenzana,44.206248,9.941986
+Podenzano,44.956363,9.684967
+Pofi,41.5652745,13.4155324
+Poggiardo,40.054223,18.379132
+Poggibonsi,43.4677215,11.148762
+Poggio a Caiano,43.8160891,11.0546502
+Poggio Bustone,42.501834,12.888178
+Poggio Catino,42.2949988,12.6919216
+Poggio Imperiale,41.8233236,15.3654175
+Poggio Mirteto,42.2655187,12.6873028
+Poggio Moiano,42.202627,12.879382
+Poggio Nativo,42.215427,12.79658
+Poggio Picenze,42.3206357,13.5410869
+Poggio Renatico,44.765974,11.490111
+Poggio Rusco,44.9755577,11.1146492
+Poggio San Lorenzo,42.252428,12.84418
+Poggio San Marcello,43.511158,13.073667
+Poggio San Vicino,43.375155,13.079069
+Poggio Sannita,41.7788339,14.4141996
+Poggio Torriana,43.9998476,12.3926599
+Poggiodomo,42.711239,12.933876
+Poggiofiorito,42.25494,14.322313
+Poggiomarino,40.803111,14.539037
+Poggioreale,37.7620964,13.0343176
+Poggiorsini,40.917126,16.254774
+Poggiridenti,46.1756616,9.9262461
+Pogliano Milanese,45.5373018,8.991631
+Pognana Lario,45.881933950000004,9.164583544143003
+Pognano,45.586378,9.639955
+Pogno,45.7590389,8.3834264
+Poirino,44.920845,7.846928
+Pojana Maggiore,45.2913812,11.5013468
+Polaveno,45.661588,10.123909
+Polcenigo,46.0306995,12.5016263
+Polesella,44.9640818,11.7501773
+Polesine Zibello,45.0108093,10.0987126
+Poli,41.8873266,12.8931264
