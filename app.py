@@ -43,4 +43,5 @@ def search():
     return render_template('results.html', cities=filtered_df['Città_H'].to_list(), map_html="map.html", ncities = len(filtered_df), access_counter=access_counter)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000)
+    #app.run(debug=True)
