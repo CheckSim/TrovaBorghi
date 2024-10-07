@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Risultati della ricerca</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Stile per l'elenco delle città con scroll */
+        .city-list {
+            max-height: 500px; /* Altezza massima dell'elenco */
+            overflow-y: auto;  /* Abilita lo scroll verticale */
+        }
+    </style>
+</head>
+<body class="bg-light d-flex flex-column min-vh-100">
+    <div class="container my-auto">
+        <h1 class="my-5 text-center">Risultati della ricerca: trovati {{ ncities }} comuni</h1>
+
+        <div class="card p-4 shadow-sm">
+            <div class="row">
+                <!-- Colonna per l'elenco delle città -->
+                <div class="col-md-6">
+                    <h3>Elenco delle città:</h3>
+                    <ul class="city-list list-group">
+                        {% for city in cities %}
+                            <li class="list-group-item">{{ city }}</li>
+                        {% else %}
+                            <p>Nessuna città trovata che corrisponde ai criteri di ricerca.</p>
+                        {% endfor %}
+                    </ul>
+                </div>
+
+                <!-- Colonna per la mappa -->
+                <div class="col-md-6">
+                    <h3>Mappa delle città:</h3>
+                    <div id="map"></div>
+                    <iframe src="{{ url_for('static', filename=map_html) }}" width="100%" height="500px"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-light text-center py-4 mt-auto">
+        <div class="container">
+            <div class="d-flex justify-content-between align-items-center">
+                <p class="mb-0">Questa applicazione è rilasciata sotto licenza 
+                    <a href="https://www.gnu.org/licenses/gpl-3.0.it.html" class="text-light" target="_blank">GNU GPL 3.0</a>.
+                </p>
+                
+                <div>
+                    <a href="https://github.com/CheckSim/TrovaBorghi" class="text-light mx-2">GitHub</a> | 
+                    <a href="https://www.linkedin.com/in/simonececconi/" class="text-light mx-2">LinkedIn</a>
+                </div>
+                
+                <p class="mb-0">&copy; 2024 TrovaBorghi. Tutti i diritti riservati.</p>
+                <p class="mb-0">Sei il visitatore numero: {{ access_counter }}</p> <!-- Contatore degli accessi -->
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
