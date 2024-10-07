@@ -7,6 +7,7 @@ app = Flask(__name__)
 # Crea un DataFrame con nomi di città (puoi sostituirlo con il tuo dataset più grande)
 df = pd.read_csv('./input/italian_municipalities.csv')
 df.dropna(inplace = True)
+df.sort_values('Città', inplace=True)
 df['Città_H'] = df['Città']
 df['Città'] = df['Città'].str.lower()
 
